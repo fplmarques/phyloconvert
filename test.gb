@@ -1,0 +1,1918 @@
+LOCUS       FJ177131                1488 bp    DNA     linear   INV 11-SEP-2013
+DEFINITION  Rhinebothrium sp. 9 Healy et al. (2009) 28S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   FJ177131
+VERSION     FJ177131.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. 9 Healy et al. (2009)
+  ORGANISM  Rhinebothrium sp. 9 Healy et al. (2009)
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1488)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and Littlewood,D.T.
+  TITLE     Proposal for a new tapeworm order, Rhinebothriidea
+  JOURNAL   Int. J. Parasitol. 39 (4), 497-511 (2009)
+   PUBMED   18929566
+REFERENCE   2  (bases 1 to 1488)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and
+            Littlewood,D.T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2008) Department of Zoology, The Natural History
+            Museum, Cromwell Road, London, England SW7 5BD, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..1488
+                     /organism="Rhinebothrium sp. 9 Healy et al. (2009)"
+                     /mol_type="genomic DNA"
+                     /host="Taeniura lymma"
+                     /specimen_voucher="LRP3921 (CH34)"
+                     /db_xref="taxon:595933"
+                     /country="Malaysia"
+     rRNA            <1..>1488
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tatcactaag cggaggaaaa gaaactaacc aggattcccc tagtaacggc gagtgaagag
+       61 ggaaaagccc agcaccgaag cctgcggtag ttttactgtt aggcaatgtg gtgtttgggt
+      121 cggctagttg gattgccact ccactcgaag tcctatcatt gagtatggcc ctggacttgt
+      181 cccagagagg gtgaaaggcc cgtacgggtg gaggttttca gacaagtgag gcaattcacc
+      241 aggccggcct tagagtcggg ttgtttggga atgcagccca aagtgggtgg taaactccat
+      301 ccaaggctaa atactagcac gagtccgata gcaaacaagt accgtgaggg aaagttgaaa
+      361 agtactttga agagagagta aacagtacgt gaaaccgcat gcaggtaaac gggtggcgtc
+      421 aagctgcaag cccagaggat tcagtcggct aggatgtagt gtatgcgcct gcgcatcaat
+      481 cggccagagt aagattgaat ggtccactgg aagacagtgg gccctgccgc aaggtgggga
+      541 tgtgtgtacc gggtggatgc cggagcacgc cgttcgtcta ttgggctgcc tagtcggtgc
+      601 actttctctg tggtggacac cacgaccggt ggtactgcca gtctgctatg gtcaagtcgt
+      661 attcggttgg tccttgtggc ctactggatg cgatcacggg caaactcggt aaacggcgtt
+      721 gatgtgctct cgggtgtgtc ttcgtgttat cggctactgg ttgccttaac gggcctgcct
+      781 tacgattgtt atagccgtca tgaggtggtc tggtggacta tagtggtatg aataactgtg
+      841 cagggcactg gtgttttcgg cctcaaatgc agtctgtatg cacgctataa gtgtgtgtgc
+      901 gtgtgtgggg gcatcgttgc ggcctgcctg ttgttgggtc tgattgtcgt gttacctgcg
+      961 caaagtaggt ccggcagtgg tctgatgcag gatggagtcg ttggcgatgt cttcagtgca
+     1021 gattgtggtg ggcccgatag tctgtggtgt agtggtagac gagctacccg acccgtcttg
+     1081 aaacacggac caaggagttt aacatgtgtg caagtcatgg ggtctttttt gtacgaaacc
+     1141 caaaggcgca atgaaagtaa agcttcgagc tttttgttcg aagtgaggtg agatcctgtt
+     1201 gttactcgca cccgtttgct cgtcagtagc aggcatcaag agcggcaggc gcatcaccgg
+     1261 cccgtcccat gatgtggtca ttggaaaagg ctgcagttgg ctatgctggt tgtagtactc
+     1321 ccagtgcgtc atcggggcgg agcatgagca tacatgttga gacccgaaag atggtgaact
+     1381 atgcttgcgt aggttgaagc cagaggaaac tctggtggag gaccgcagcg attctgacgt
+     1441 gcaaatcgat cgtcaaacgt gagtataggg gcgaaagact aatcgaac
+//
+
+LOCUS       FJ177130                1553 bp    DNA     linear   INV 11-SEP-2013
+DEFINITION  Rhinebothrium sp. 8 Healy et al. (2009) 28S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   FJ177130
+VERSION     FJ177130.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. 8 Healy et al. (2009)
+  ORGANISM  Rhinebothrium sp. 8 Healy et al. (2009)
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1553)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and Littlewood,D.T.
+  TITLE     Proposal for a new tapeworm order, Rhinebothriidea
+  JOURNAL   Int. J. Parasitol. 39 (4), 497-511 (2009)
+   PUBMED   18929566
+REFERENCE   2  (bases 1 to 1553)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and
+            Littlewood,D.T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2008) Department of Zoology, The Natural History
+            Museum, Cromwell Road, London, England SW7 5BD, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..1553
+                     /organism="Rhinebothrium sp. 8 Healy et al. (2009)"
+                     /mol_type="genomic DNA"
+                     /host="Paratrygon cf aiereba"
+                     /specimen_voucher="LRP3930 (CH55)"
+                     /db_xref="taxon:595935"
+                     /country="Peru"
+     rRNA            <1..>1553
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tatcactaag cggaggaaaa gaaactaacc aggattcccc tagtaacggc gagtgaagag
+       61 ggaagagccc agcaccgaag cctgcggtag ctttactgtt aggcaatgtg gtgtttgggt
+      121 cggctcgcgg gattgccact ccactcgaag tccagcattg agtatggttt ctggatttgg
+      181 cccagagagg gtgaaaggcc cgtacgggtg gaggtatcag acaagtgagg caattcacta
+      241 ggccggcctt agagtcgggt tgtttgggaa tgcagcccaa agtgggtggt aaactccatc
+      301 caaggctaaa tactagcacg agtccgatag caaacaagta ccgtgaggga aagttgaaaa
+      361 gtactttgaa gagagagtaa acagtacgtg aaaccgcatg caggtaaacg ggtggcgtca
+      421 agctgcacgc ccagaggatt cagccggtta gagtgtagtt atgcgcttgc gtgtcaacag
+      481 gccagagtaa ggcgtggtag accgctggaa gacagtgggc cctgccgcaa ggtggggatg
+      541 tgtttagccg ggtggacgcc ggagcacgct atccgtctgt tgggccatct agccggtgca
+      601 ctttctctgt ggtggacacc acgaccggtg ggactgccag tctgctatgg tcaagtcgta
+      661 ttcggttggt ccttgtggct aactgggtgc gatcacgggc aaacttggtg aacggcgttg
+      721 acgtgctctc ttgagggtgt gtcttcgtgt tatcggtaac cagttgtctt aacgggcctg
+      781 ccttacgatt gttctagccg tcgtagggtg gtctggtgga ccatggtggt aagaataact
+      841 gtgcagggca ccggagtttt cggcctcaaa tgcagccagc atgcacgcta gtagtgtgtt
+      901 gccaatatgg gtgctctcgt ggtctgcctg gtgccgggtc tgattgtcgt gttgcctacg
+      961 caaagtgggt tcggcagtgg ctcggttcat ggttgggctt gcgttgggtg ctcagagtgc
+     1021 tggttgtagt gggcctgata gtctgtggtg tagtggtaga cgagctaccc gacccgtctt
+     1081 gaaacacgga ccaaggagtt taacatgtat gcaagtcact gggtcctacg aaacccaaag
+     1141 gcgcaatgaa agtaaagccc tgtgatcgcg tttttattaa tgtggtccgg ggtgaggtga
+     1201 gatcctaccg tgactccgcc agcctattcg gtcagaagca ggcataccgc gcggtgggcg
+     1261 catcaccggc ccgtcccatg atgtggtcat tggaaaaggc tgtggctaac tgctatttcg
+     1321 gtagttgttt ggccgcggta ctcccagtgc gtcatcgggg cggagcatga gcatacacgt
+     1381 tgagacccga aagatggtga actatgcttg cgtaggttga agccagagga aactctggtg
+     1441 gaggaccgca gcgattctga cgtgcaaatc gatcgtcaaa cgtgagtata ggggcgaaag
+     1501 actaatcgaa ccatctagta gctggttccc tccgaagttt ccctcaggat agc
+//
+
+LOCUS       FJ177129                1464 bp    DNA     linear   INV 11-SEP-2013
+DEFINITION  Rhinebothrium sp. 7 Healy et al. (2009) 28S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   FJ177129
+VERSION     FJ177129.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. 7 Healy et al. (2009)
+  ORGANISM  Rhinebothrium sp. 7 Healy et al. (2009)
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1464)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and Littlewood,D.T.
+  TITLE     Proposal for a new tapeworm order, Rhinebothriidea
+  JOURNAL   Int. J. Parasitol. 39 (4), 497-511 (2009)
+   PUBMED   18929566
+REFERENCE   2  (bases 1 to 1464)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and
+            Littlewood,D.T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2008) Department of Zoology, The Natural History
+            Museum, Cromwell Road, London, England SW7 5BD, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..1464
+                     /organism="Rhinebothrium sp. 7 Healy et al. (2009)"
+                     /mol_type="genomic DNA"
+                     /host="Dasyatis cf. margaritella"
+                     /specimen_voucher="LRP3897 (CH6)"
+                     /db_xref="taxon:595928"
+                     /country="Senegal"
+     rRNA            <1..>1464
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tatcactaag cggaggaaaa gaaactaacc aggattcccc tagtaacggc gagtgaagag
+       61 ggaagagccc agcaccgaag cctgcggtag ttttactgtt aggcaatgtg gtgtttgggt
+      121 cggctagttg gattgccact ccactcgaag tccagcattg agtatggttt actggatatt
+      181 tggcccagag agggtgaaag gcccgtacgg gtggaggtat cagacaagtg aggcagttca
+      241 ccaggccggc cttagagtcg ggttgtttgg gaatgcagcc caaagcgggt ggtaaactcc
+      301 atccaaggct aaatactagc acgagtccga tagcaaacaa gtaccgtgag ggaaagttga
+      361 aaagtacttt gaagagagag taaacagtac gtgaaaccgc atgcaggtaa acgggtggcg
+      421 tcaagctgca agcctggaga attcagctga taagggtgtt gtgtgtgagt gccttggcac
+      481 cattcggcca gagtaagacg tgttgggcca ctcgtgtagt ggtaggtccc gccttctggt
+      541 ggggccctgt gtgtactgct catcggtagg agcacaccag ccgtctatgg agccgcccta
+      601 tcagtgcact ttctccggtg cgaacaccac gaccggtgga actgccagtc tgctatggtc
+      661 aagtcgtatt cggtgagtcc ttgtggccta ctgggtgcga tcacgggcaa actcggtaaa
+      721 cggcgttgaa gcactttcgg gtgcgtcttc gtgttatcgg ctactggttg tcttaacggg
+      781 cctgcctttc gattgtttta gccgtcgatt ggtggtctgg tggatcatag tggtatgaat
+      841 aactgtgcag ggcactggag ttttcggcct cagtatggcg gcctgctaat gcgctttaag
+      901 tgtgtgtatg tggatgcggg tgcgcctgcc tgttgttggg tccgattgtc gtgtcgcgca
+      961 caaagtgcgc ccggcagtgg cctgatgcag ggtggagctg tagtcgtgtt catatgtggc
+     1021 aggtcgttgt gggcctaata gtcagtggtg tagtggtaga cgagctaccc gacccgtctt
+     1081 gaaacacgga ccaaggagtt taacatgtat gcaagtcaag gggtcctacg aaacccaaag
+     1141 gcgcagtgaa agtgaagctt aggccatttc ggtggtttga gtgaggtgag atcccgtcgt
+     1201 tactcgcatc agtcgcatcc agtatgaggc attaagagcg gcgggcgcat caccggcccg
+     1261 tcccatgatg tggtcattgg aacaaggctg cagttggttt atctggctgt agtactccca
+     1321 gtgcgtcatc ggggcggagc atgagcatac atgttgagac ccgaaagatg gtgaactatg
+     1381 cttgcgtagg ttgaagccag aggaaactct ggtggaggac cgcagcgatt ctgacgtgca
+     1441 aatcgatcgt caaacgtgag tata
+//
+
+LOCUS       FJ177128                1500 bp    DNA     linear   INV 11-SEP-2013
+DEFINITION  Rhinebothrium sp. 6 Healy et al. (2009) 28S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   FJ177128
+VERSION     FJ177128.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. 6 Healy et al. (2009)
+  ORGANISM  Rhinebothrium sp. 6 Healy et al. (2009)
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1500)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and Littlewood,D.T.
+  TITLE     Proposal for a new tapeworm order, Rhinebothriidea
+  JOURNAL   Int. J. Parasitol. 39 (4), 497-511 (2009)
+   PUBMED   18929566
+REFERENCE   2  (bases 1 to 1500)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and
+            Littlewood,D.T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2008) Department of Zoology, The Natural History
+            Museum, Cromwell Road, London, England SW7 5BD, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..1500
+                     /organism="Rhinebothrium sp. 6 Healy et al. (2009)"
+                     /mol_type="genomic DNA"
+                     /host="Dasyatis longus"
+                     /specimen_voucher="LRP3896 (CH5)"
+                     /db_xref="taxon:595927"
+                     /country="Mexico"
+     rRNA            <1..>1500
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tatcactaag cggaggaaaa gaaactaacc aggattcccc tagtaacggc gagtgaagag
+       61 ggaagagccc agcaccgaag cctgcggtag ttttactgtt aggcaatgtg gtgtttgggc
+      121 cggctcgcgg gattgccact ccacccgaag tccagcattg agtatggtcc actggatttg
+      181 gcccagagag ggtgaaaggc ccgtacgggt ggaggcttca gacaagttag gcaattcact
+      241 aggccggcct tagagtcggg ttgtttggga atgcagccca aagtgggtgg taaactccat
+      301 ccaaggctaa atactagcac gagtccgata gcaaacaagt accgtgaggg aaagttgaaa
+      361 agtactttga agagagagta aacagtacgt gaaaccgcat gcaggtaaac gggtggcgtc
+      421 aagctgcacg cccagaggat tcagccggtt agagtgtagt tatgcgcttg cgtgtcgaac
+      481 ggccagtgta agattggata gcctactgga agacagtggg tcctgccgca aggtggggat
+      541 gtgtgtaccg ggtggaagcc ggagcacgct gtccgtctat tgggccatct agccggtgca
+      601 ctttctctgt ggtggacacc acgaccggtg gaactgccag tctgctgggg tcaagtcgta
+      661 ttcggttggt cttctcggtc aactgggtgc gatcacgggc aaactcggtg aacggcgttg
+      721 gtgtgctctt cggagtgcgt cttcgtgtta tcggtaaccg gttgtcttaa cgggcctgcc
+      781 ttacgattgt tctagctgtc gtatgggtgg tctggtggat cccagtggta agaataactg
+      841 tgcagggcac cggagttctc ggcctctaat gcagtcagca tgcacgctag tagtgttgtc
+      901 aatgcaggtg cccgcgtgat ctgcatgtag ttgggtctga ttgtcgtgtt gcccgcgaaa
+      961 agtgggttcg gcagtggctc ggctcatggt tggacacacg tgtgtacagg gtgcctgttt
+     1021 tgttggctgc tgtgggcccg atagtctgtg gtgtagtggt agacgagcta cccgacccgt
+     1081 cttgaaacac ggaccaagga gtttaacatg tatgcaagtc actgggtcct acgaaaccca
+     1141 aaggcgcaat gaaagtaaag cttcgctgtc ggcagtgctg tcatctcgtg tggcggtatt
+     1201 ggcggctcgg agtgaggtga gatcctaccg tggctcagcc gaccaaatcg gtcagaagca
+     1261 ggcataccgc gcggtgggcg catcaccggc ccgtcccatg atgtggtcat tggaaaaggc
+     1321 tgtggttggc tcttgtagtt ggccgtagta ctcccagtgc gtcatcgggg cggagcatga
+     1381 gcatacacgt tgagacccga aagatggtga actatgcttg cgtaggttga agccagagga
+     1441 aactctggtg gaggaccgca gcgattctga cgtgcaaatc gatcgtcaaa cgtgagtata
+//
+
+LOCUS       FJ177127                1395 bp    DNA     linear   INV 11-SEP-2013
+DEFINITION  Rhinebothrium sp. 5 Healy et al. (2009) 28S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   FJ177127
+VERSION     FJ177127.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. 5 Healy et al. (2009)
+  ORGANISM  Rhinebothrium sp. 5 Healy et al. (2009)
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1395)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and Littlewood,D.T.
+  TITLE     Proposal for a new tapeworm order, Rhinebothriidea
+  JOURNAL   Int. J. Parasitol. 39 (4), 497-511 (2009)
+   PUBMED   18929566
+REFERENCE   2  (bases 1 to 1395)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and
+            Littlewood,D.T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2008) Department of Zoology, The Natural History
+            Museum, Cromwell Road, London, England SW7 5BD, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..1395
+                     /organism="Rhinebothrium sp. 5 Healy et al. (2009)"
+                     /mol_type="genomic DNA"
+                     /host="Dasyatis brevis"
+                     /specimen_voucher="LRP3893 (CH2)"
+                     /db_xref="taxon:595926"
+                     /country="Mexico"
+     rRNA            <1..>1395
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tatcactaag cggaggaaaa gaaactaacc aggattcccc tagtaacggc gagtgaagag
+       61 ggaagagccc agcaccgaag cctgcggtag ttttactgtt aggcaatgtg gtgtttgggt
+      121 cggttcgtgg gattgccact ccactcgaag tcctatcatt gagtatggcc ctggacttgg
+      181 cccagagagg gtgaaaggcc cgtacgggtg gaggtgtcag ataagtgagg caattcacca
+      241 ggccggccta agagtcgggt tgtttgggaa tgcagcccaa agtgggtggt aaactccatc
+      301 caaggctaaa tactagcacg agtccgatag caaacaagta ccgtgaggga aagttgaaaa
+      361 gtactttgaa gagagagtaa acagtacgtg aaaccgcatg caggtaaacg ggtggcgtca
+      421 agctgcaagc ccagaggatt cagtcggcta gggtgtagtg tatgcgcctg cgcatcgatc
+      481 ggccagagta agattgaacg gtctactgga agacagtggg ccctgccgca aggtggggat
+      541 gtgtgtaccg ggcggatgcc ggagcacgct gttcgtctat tgggtcgcct agccggtgca
+      601 ctttctctgt ggtgaacacc acgaccggtg gtactgccag tctgctatgg tcaagtcgtg
+      661 ttcggttggt ccttgtggcc tactggatgc gatcacgggc aaattcggtg aacggcgttg
+      721 atgtgctctc gggtgcgtct tcgtgttatc ggctactggt tgctttaacg ggcctgccta
+      781 gagattgtta tagctgtctc tgggtggtct ggtggacctt agtggtaaga ataactgtgc
+      841 agggcactgg tgttttcggc ctcaaatgcg gtctgcatgc acgctataag tgtgttaatg
+      901 tgggcgtcgt tgcagcctac ctgttgttgg gtctgattgt cgtgttgcct acgcaaagtg
+      961 ggcccggcag tggtctgatg caggctggag ttgttggcgg cgtcttcagt gcagattgtg
+     1021 gtgggcctga tagtctgtgg tgtagtggta gacgagctac ccgacccgtc ttgaaacacg
+     1081 gaccgtggag tttaacatgt gtgcaagtca tggggtctta cgaaacccaa aggcgcagtg
+     1141 aaagtgaagc ttcggcaatt tggtcggagt aaggtgagat cctgtcgtta ctcgcatccg
+     1201 tttgctcgct agtagcaggc atcaagagcg gcaggcgcat caccggcccg tcccatgatg
+     1261 tggtcattgg aaaaggctgc agtcggctct gccggttgta gtactcccag tgcgtcatcg
+     1321 gggcggagca tgagcataca tgttgagacc cgaaagatgg tgaactatgc ttgcgtaggt
+     1381 tgaagccaga ggaaa
+//
+
+LOCUS       FJ177126                1427 bp    DNA     linear   INV 11-SEP-2013
+DEFINITION  Rhinebothrium sp. 4 Healy et al. (2009) 28S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   FJ177126
+VERSION     FJ177126.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. 4 Healy et al. (2009)
+  ORGANISM  Rhinebothrium sp. 4 Healy et al. (2009)
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1427)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and Littlewood,D.T.
+  TITLE     Proposal for a new tapeworm order, Rhinebothriidea
+  JOURNAL   Int. J. Parasitol. 39 (4), 497-511 (2009)
+   PUBMED   18929566
+REFERENCE   2  (bases 1 to 1427)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and
+            Littlewood,D.T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2008) Department of Zoology, The Natural History
+            Museum, Cromwell Road, London, England SW7 5BD, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..1427
+                     /organism="Rhinebothrium sp. 4 Healy et al. (2009)"
+                     /mol_type="genomic DNA"
+                     /host="Dasyatis akajei"
+                     /specimen_voucher="LRP3892 (CH1)"
+                     /db_xref="taxon:595925"
+                     /country="Japan"
+     rRNA            <1..>1427
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tatcactaag cggaggaaaa gaaactaacc aggattcccc tagtaacggc gagtgaagag
+       61 ggaagagccc agcaccgaag cctgcggtag ttttactgtt aggcaatgtg gtgtttgggt
+      121 cggttcgtgg gattgccact ccactcgaag tcctatcatt gagtatggcc ctggacttgg
+      181 cccagagagg gtgaaaggcc cgtacgggtg gaggtatcag ataagtgagg caattcacca
+      241 ggccggccta agagtcgggt tgtttgggaa tgcagcccaa agtgggtggt aaactccatc
+      301 caaggctaaa tactagcacg agtccgatag caaacaagta ccgtgaggga aagttgaaaa
+      361 gtactttgaa gagagagtaa acagtacgtg aaaccgcatg caggtaaacg ggtggcgtca
+      421 agctgcaagc ccagaggatt cagtcggcta gggtgtagtg tatgcgcctg cgcatcaatc
+      481 ggccagtgta agattgaacg gtctactgga agacagtggg ccctgccgca aggtggggat
+      541 gtgtgtaccg ggcggatgcc ggagcacgct gttcgtctat tgggctgcct agccggtgca
+      601 ctttctctgt ggtggacacc acgaccggtg gtactgccag tctgctatgg tcaagtcgtg
+      661 tttggttggt ccttgtggcc tactggatgc gatcacgggc aaattcggta aacggcgttg
+      721 atgtgctctc gggtgcgtct tcgtgttatc ggctactggt tgctttaacg ggcctgcctt
+      781 aggattgtta tagcctgtcc tagggtggtc tggtggacct tagtggtaag aataactgtg
+      841 cagggcactg gtgttttcgg cctcaaatgc agtctgcatg tatgctataa gtgtgtcaat
+      901 gtgggcgttg ttgcagccta cctgttgttg ggtctgattg tcgtgttgcc tgcgcaaagt
+      961 gggtccggca gtggtctgat gcaggctgga gttgttagcg gcgtcttcag tgcagattgt
+     1021 ggtgggcctg atagtctgtg gtgtagtggt agacgagcta cccgacccgt cttgaaacac
+     1081 ggaccgtgga gtttaacatg tgtgcaagtc atggggtctt acgaaaccca aaggcgcagt
+     1141 gaaagtgaag cttcggcaat ttggtcgaag taaggtgaga tcctgtcgtt actcgcatcc
+     1201 attgtttgct agtagcaggc atcaagagcg gcaggcgcat caccggcccg tcccatgatg
+     1261 tggtcattgg aaaaggctgc agttggttct ccggctgtag tactcccagt gcgtcatcgg
+     1321 ggcggagcat gagcatacat gttgagaccc gaaagatggt gaactatgct tgcgtaggtt
+     1381 gaagccagag gaaactctgg tggaggaccg cagcgattct gacgtgc
+//
+
+LOCUS       FJ177125                1503 bp    DNA     linear   INV 11-SEP-2013
+DEFINITION  Rhinebothrium sp. 3 Healy et al. (2009) 28S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   FJ177125
+VERSION     FJ177125.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. 3 Healy et al. (2009)
+  ORGANISM  Rhinebothrium sp. 3 Healy et al. (2009)
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1503)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and Littlewood,D.T.
+  TITLE     Proposal for a new tapeworm order, Rhinebothriidea
+  JOURNAL   Int. J. Parasitol. 39 (4), 497-511 (2009)
+   PUBMED   18929566
+REFERENCE   2  (bases 1 to 1503)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and
+            Littlewood,D.T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2008) Department of Zoology, The Natural History
+            Museum, Cromwell Road, London, England SW7 5BD, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..1503
+                     /organism="Rhinebothrium sp. 3 Healy et al. (2009)"
+                     /mol_type="genomic DNA"
+                     /host="Himantura undulata"
+                     /specimen_voucher="LRP3908 (CH19)"
+                     /db_xref="taxon:595931"
+                     /country="Australia"
+     rRNA            <1..>1503
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tatcactaag cggaggaaaa gaaactaacc aggattcccc tagtaacggc gagtgaagag
+       61 ggaagagccc agcaccgaag cctgcggtag ctttactgtt aggcaatgtg gtgtttgggt
+      121 cggctcgcgg gattgccact ccactcgaag tccagcattg agtatggtcc actggatttg
+      181 gcccagagag ggtgaaaggc ccgtacgggt ggaggtttca gacaagtgag gcaattcact
+      241 aggccggcct tagagtcggg ttgtttggga atgcagccca aagtgggtgg taaactccat
+      301 ccaaggctaa atactagcac gagtccgata gcaaacaagt accgtgaggg aaagttgaaa
+      361 agtactttga agagagagta aacagtacgt gaaaccgcgt gcaggtaaac gggtggcgtc
+      421 aagctgtacg cccagaggat tcagccggtt agagtgtagt catgcgcttg cgcatcgaaa
+      481 ggccggagta agattgggta gtccactgga agacagtggg ccctgccgca aggtggggat
+      541 gtgtgtaccg ggtggaagcc ggagcacgct atccgtctgt tgggccatct agccggtgca
+      601 ctttctctgt ggtggacacc acgaccggtg ggactgccag tctgctatgg ccaagtcgta
+      661 ttcggttggt cctcgtggcc ttctgggtgc gatcacgggc aaactcggtg aacggcgttg
+      721 gtgtgctctc cggggtacgt cttcgtgtta tcggtaaccg gttgtcttaa cgggcctgcc
+      781 ttacgattgt tctagccgtc gtagggtggt ctggtgggcc atagtggtat gaataactgt
+      841 gcagggcacc ggagttttcg gcctcagttg cagccggtaa gcacgctagt agtgttcaag
+      901 catggtgttg ctctcgctgc ctgcctggcg tcgggtctga ttgtcgtgtt gcctgcgaaa
+      961 agtgggttcg gcagtggctc ggctcaggat gggtggtgtt gggtggcgtc gttgctggtt
+     1021 gcagtgggcc tgatagtctg tggtgtagtg gtagacgagc tacccgaccc gtcttgaaac
+     1081 acggaccaag gagtttaaca tgtatgcaag tcactgggtc ctacgaaacc caaaggcgca
+     1141 atgaaagtaa agctccgggg cattcgtgct ccggagtgag gtgagatccc gccgtgactc
+     1201 cgccagccta ttcggtcaga agcaggcata ccgcgcggtg ggcgcatcac cggcccgtcc
+     1261 catgatgtgg tcattggaaa aggctgtcgt cggctccggc tggcggtggt actcccagtg
+     1321 cgtcatcggg gcggagcatg agcatacacg ttgagacccg aaagatggtg aactatgctt
+     1381 gcgtaggttg aagccagagg aaactctggt ggaggaccgc agcgattctg acgtgcaaat
+     1441 cgatcgtcaa acgtgagtat aggggcgaaa gactaatcga accatctagt agctggttcc
+     1501 ctc
+//
+
+LOCUS       FJ177124                1522 bp    DNA     linear   INV 11-SEP-2013
+DEFINITION  Rhinebothrium sp. 2 Healy et al. (2009) 28S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   FJ177124
+VERSION     FJ177124.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. 2 Healy et al. (2009)
+  ORGANISM  Rhinebothrium sp. 2 Healy et al. (2009)
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1522)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and Littlewood,D.T.
+  TITLE     Proposal for a new tapeworm order, Rhinebothriidea
+  JOURNAL   Int. J. Parasitol. 39 (4), 497-511 (2009)
+   PUBMED   18929566
+REFERENCE   2  (bases 1 to 1522)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and
+            Littlewood,D.T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2008) Department of Zoology, The Natural History
+            Museum, Cromwell Road, London, England SW7 5BD, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..1522
+                     /organism="Rhinebothrium sp. 2 Healy et al. (2009)"
+                     /mol_type="genomic DNA"
+                     /host="Himantura uarnacoides"
+                     /specimen_voucher="LRP3907 (CH16)"
+                     /db_xref="taxon:595930"
+                     /country="Malaysia"
+     rRNA            <1..>1522
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tatcactaag cggaggaaaa gaaactaacc aggattcccc tagtaacggc gagtgaagag
+       61 ggaagagccc agcaccgaag cctgcggttg tttaactgtt aggcaatgtg gtgtttgggt
+      121 cggctagcgg gattgccact ccactcgaag tccagcattg agtatggtcc actggatttg
+      181 gcccagagag ggtgaaaggc ccgtacgggt ggaggtttca gtcaagtgag gcagttcact
+      241 aggccggcct tagagtcggg ttgtttggga atgcagccca aagtgggtgg taaactccat
+      301 ccaaggctaa atactagcac gagtccgata gcaaacaagt accgtgaggg aaagttgaaa
+      361 agtactttga agagagagta aacagtacgt gaaaccgcat gcaggtaaac gggtggcgtc
+      421 aagctgtacg cccagaggat tcagccggtt agagtgtagt tatgcgcctg cgcatcgaaa
+      481 ggccagtgta agagtgggta gtccactgga agacagtggg ccctgccgca aggtggggat
+      541 gtgtgtaccg ggtggaagcc ggagcacgct atccgtctgt tgggccgtct agccggtgca
+      601 ctttctctgt ggtggacacc acgaccggtg gaactgccag tctactgtgg ccaagtcgtg
+      661 ttcggttggt ccttgtggcc tactgggtgc gatcacgggc aaagtcggtg aacggcgttg
+      721 atgtgctctc gggtgcgtct tcgtgttatc ggtagccgct tgccttaacg ggcctacccg
+      781 gcgattgttt tagccgtcgt tgggtggtct ggtgggccat tgtggtaaga ataactgtgc
+      841 agggcaccgg agttttcggc ctcaattgca gtcggcatgc acgctatcag tgttgtgatt
+      901 ggttgtgctc tcgctgcctg cctggtgtcg ggtctgattg tcgtgttgcc tgcgaaaagt
+      961 gggttcggca gtggctcggc ccaggatggg tctgtgctgg gtgcttccag tgtcggctgt
+     1021 agtgggccag atagtctgtg gtgtagtggt agacgagcta cccgacccgt cttgaaacac
+     1081 ggaccaagga gtttaacatg tgtgcaagtc aatgggtcct acgaaaccca aaggcgcaat
+     1141 gaaagtaaag cttcgtgcca ttcgtggtgc ggagtgaggt gagatcccgc cgtgactctg
+     1201 ccagtctctt cggtcagaag caggcatacc gcgcggtggg cgcatcaccg gcccgtccca
+     1261 tgatgtggtc attggaaaag gctgctgtcg gctccggtcg gcggtagtac tcccagtgcg
+     1321 tcatcggggc ggagcatgag catacatgtt gagacccgaa agatggtgaa ctatgcttgc
+     1381 gtaggttgaa gccagaggaa actctggtgg aggaccgcag cgattctgac gtgcaaatcg
+     1441 atcgtcaaac gtgagtatag gggcgaaaga ctaatcgaac catctagtag ctggttccct
+     1501 ccgaagtttc cctcaggata gc
+//
+
+LOCUS       FJ177123                1522 bp    DNA     linear   INV 11-SEP-2013
+DEFINITION  Rhinebothrium sp. 11 Healy et al. (2009) 28S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   FJ177123
+VERSION     FJ177123.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. 11 Healy et al. (2009)
+  ORGANISM  Rhinebothrium sp. 11 Healy et al. (2009)
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1522)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and Littlewood,D.T.
+  TITLE     Proposal for a new tapeworm order, Rhinebothriidea
+  JOURNAL   Int. J. Parasitol. 39 (4), 497-511 (2009)
+   PUBMED   18929566
+REFERENCE   2  (bases 1 to 1522)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and
+            Littlewood,D.T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2008) Department of Zoology, The Natural History
+            Museum, Cromwell Road, London, England SW7 5BD, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..1522
+                     /organism="Rhinebothrium sp. 11 Healy et al. (2009)"
+                     /mol_type="genomic DNA"
+                     /host="Taeniura lymma"
+                     /specimen_voucher="LRP3923 (CH36)"
+                     /db_xref="taxon:595934"
+                     /country="Malaysia"
+     rRNA            <1..>1522
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tatcactaag cggaggaaaa gaaactaacc aggattcccc tagtaacggc gagtgaagag
+       61 ggaagagccc agcaccgaag cctgcggtag atttactgtt aggcaatgtg gtgtttgggt
+      121 cggctcgcgg gattgccact ccactcgaag tccagcattg agtatggtcc actggatttg
+      181 gcccagagag ggtgaaaggc ccgtacgggt ggaggtttca gacaagtaag gcaattcact
+      241 aggccggcct tagagtcggg ttgtttggga atgcagccca aagtgggtgg taaactccat
+      301 ccaaggctaa atactagcac gagtccgata gcaaacaagt accgtgaggg aaagttgaaa
+      361 agtactttga agagagagta aacagtacgt gaaaccgcat gcaggtaaac gggtggcgtc
+      421 aagctgtacg cccagaggat tcagccggtt agagtgtagt tatgcgcttg cgcatcgaac
+      481 ggccagtgta agattgggtg gtctactgga agacagtggg ccctgccgca aggtggggat
+      541 gtgtgtaccg ggtggaagcc ggagcacgcc atccgtctat tgggccgtct agccggtgca
+      601 ctttctctgt ggtggacacc acgaccagtg gtactgccag tctgctatgt tcaagtcgta
+      661 tttggttggt ccttgtggcc tactgggtgc gatcacgggc aaactcggtg aacggcgttg
+      721 atgtgctctc cggggcgtgt cttcgtgtta tcggtaaccg gttgtcttaa cgggcttgcc
+      781 ttacggttgt tctagccgtc gtagggtagt ctggtggagc atagtggtaa gaataactgt
+      841 gcagggcact ggagttttcg gcatcaaatg cagccggcat gcacgctgga agtgttgcca
+      901 atgtgggtgc tcgcgtagcc tgcctgtttg ggagggtctg attgtcgtgt tgcctgcgca
+      961 aagtgggttc ggcagtggct ctcctcaggt tgggttgcga tgggtgctta cagtgctggt
+     1021 tgtagtgtgc ccgatagtct gtggtgtagt ggtagacgag ctacccgacc cgtcttgaaa
+     1081 cacggaccaa ggagtttaac atgtatgcaa gtcaatgggt cctacgaaac ccaaaggcgt
+     1141 aatgaaagta aagcttcgac tcgttcggag tgaggtgaga tcctaccgtg actcgcgcca
+     1201 gcctattttc tgtcagaagc aggcataccg cgcggtgggc gcatcaccgg cccgtcccat
+     1261 gatgtggtca ttggaaaagg ctgctgctgg cttcggctgg tggtggtact cccagtgcgt
+     1321 catcggggcg gagcatgagc atacatgttg agacccgaaa gatggtgaac tatgcttgcg
+     1381 taggttgaag ccagaggaaa ctctggtgga ggaccgcagc gattctgacg tgcaaatcga
+     1441 tcgtcaaacg tgagtatagg ggcgaaagac taatcgaacc atctagtagc tggttccctc
+     1501 cgaagtttcc ctcaggatag ca
+//
+
+LOCUS       FJ177122                1530 bp    DNA     linear   INV 11-SEP-2013
+DEFINITION  Rhinebothrium sp. 10 Healy et al. (2009) 28S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   FJ177122
+VERSION     FJ177122.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. 10 Healy et al. (2009)
+  ORGANISM  Rhinebothrium sp. 10 Healy et al. (2009)
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1530)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and Littlewood,D.T.
+  TITLE     Proposal for a new tapeworm order, Rhinebothriidea
+  JOURNAL   Int. J. Parasitol. 39 (4), 497-511 (2009)
+   PUBMED   18929566
+REFERENCE   2  (bases 1 to 1530)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and
+            Littlewood,D.T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2008) Department of Zoology, The Natural History
+            Museum, Cromwell Road, London, England SW7 5BD, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..1530
+                     /organism="Rhinebothrium sp. 10 Healy et al. (2009)"
+                     /mol_type="genomic DNA"
+                     /host="Taeniura lymma"
+                     /specimen_voucher="LRP3920 (CH33)"
+                     /db_xref="taxon:595932"
+                     /country="Malaysia"
+     rRNA            <1..>1530
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tatcactaag cggaggaaaa gaaactaacc aggattcccc tagtaacggc gagtgaagag
+       61 ggaagagccc agcaccgaag cctgcggtag ctttactgtt aggcaatgtg gtgtttgggt
+      121 cggcttgcag gattgccact ccatccgaag tccagcattg agtatggcac actggatttg
+      181 gcccagagag ggtgaaaggc ccgtacgggt ggaggtctca gacaagttag gcagttctct
+      241 aggccggcct tagagtcggg ttgtttggga atgcagccca aagcgggtgg taaactccat
+      301 ccaaggctaa atacaagcac gagtccgata gcaaacaagt accgtgaggg aaagttgaaa
+      361 agtactttga agagagagta aacagtacgt gaaaccgcgt gcaggtaaac gggtggcgtc
+      421 aagctgtacg cccagaggat tcagccggtt agtgtgtagt tatgcgcctg cgcatcttgg
+      481 ccagagtaaa gttgactagt ccactggaag acggtgggcc ccatcgcaag gtggggattt
+      541 gcgtaccggg cggaagccgg agcaagctag ttgtctgttg ggctctgcta gccggtgcac
+      601 tttctctgtg gtggacacca cgaccgatgg aactgtcagt ctgctgtggt caagtcgttt
+      661 gtggttggtc ctcgtggcct actgcattcg atcacgggca aatcaggcaa acggcgtagg
+      721 tgaaccctcc ggggggcatc tgcgtgttat cggtggccgg ttgcttcacg ggcttgccgg
+      781 tcctgcaagt tgacgcaggt aactggtata ggtctggtgg atcatggtgg taagaataac
+      841 tgtgcagggc atcgtgacaa taatcccaca tatgcagggt ggcatgcctg tcaacgccgc
+      901 cggaaagtgg ggtgcgccac gccagcctgc ttgggttggg tcggaccgtc gagtcactca
+      961 cgaaaagtgg gtccggcggg ggccttggct caggttggtg ccgtaagggg gtaccttcac
+     1021 cgggggggcg caagtctctt cggggtgggc atcttaggcg tggtgtgctc cagtgtcacc
+     1081 ttgtgtgggt tttcagtaag tggtgtagtg gtagacgagc tacccgaccc gtcttgaaac
+     1141 acggaccaag gagtttaaca tgtgtgcaag tcactgggtc ctacgaaacc caaaggcgca
+     1201 atgaaagtaa agcttcggat cattcgtggt ctggagtgag gtgagatcct gtcgttgttc
+     1261 acgccggcct ccaatggaag caggcatttt gcgcggcagg cgcatcaccg gcccgtccca
+     1321 tgatgtggtc attggaaaag gctgcggttg gcttcggccg gctgtagtac ttctagtgcg
+     1381 tcatcggggc ggagcatgag catacatgtt gagacccgaa agatggtgaa ctatgcttgc
+     1441 gtaggttgaa gccagaggaa actctggtgg aggaccgcag cgattctgac gtgcaaatcg
+     1501 atcgtcaaac gtgagtatag gggcgaaaga
+//
+
+LOCUS       FJ177121                1522 bp    DNA     linear   INV 11-SEP-2013
+DEFINITION  Rhinebothrium sp. 1 Healy et al. (2009) 28S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   FJ177121
+VERSION     FJ177121.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. 1 Healy et al. (2009)
+  ORGANISM  Rhinebothrium sp. 1 Healy et al. (2009)
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1522)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and Littlewood,D.T.
+  TITLE     Proposal for a new tapeworm order, Rhinebothriidea
+  JOURNAL   Int. J. Parasitol. 39 (4), 497-511 (2009)
+   PUBMED   18929566
+REFERENCE   2  (bases 1 to 1522)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and
+            Littlewood,D.T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2008) Department of Zoology, The Natural History
+            Museum, Cromwell Road, London, England SW7 5BD, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..1522
+                     /organism="Rhinebothrium sp. 1 Healy et al. (2009)"
+                     /mol_type="genomic DNA"
+                     /host="Himantura pastinacoides"
+                     /specimen_voucher="LRP3903 (CH12)"
+                     /db_xref="taxon:595929"
+                     /country="Malaysia"
+     rRNA            <1..>1522
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tatcactaag cggaggaaaa gaaactaacc aggattcccc tagtaacggc gagtgaagag
+       61 ggaagagccc agcaccgaag cctgcggttg tttaactgtt aggcaatgtg gtgtttgggt
+      121 cggctagcgg gattgccact ccactcgaag tccagcattg agtatggtcc actggatttg
+      181 gcccagagag ggtgaaaggc ccgtacgggt ggaggtttca gtcaagtgag gcagttcact
+      241 aggccggcct tagagtcggg ttgtttggga atgcagccca aagtgggtgg taaactccat
+      301 ccaaggctaa atactagcac gagtccgata gcaaacaagt accgtgaggg aaagttgaaa
+      361 agtactttga agagagagta aacagtacgt gaaaccgcan gcaggtanac gggtggcgtc
+      421 aagctgtacg cccagaggat tcagccggtt agagtgtagt tatgcgcctg cgcatcgaaa
+      481 ggccagtgta agagtgggta gtccactgga agacagtggg ccctgccgca aggtggggat
+      541 gtgtgtaccg ggtggaagcc ggagcacgct atccgtctgt tgggccgtct agccggtgca
+      601 ctttctctgt ggtggacacc acgaccggtg gaactgccag tctactgtgg ccaagtcgtg
+      661 ttcggttggt ccttgtggcc tactgggtgc gatcacgggc aaagtcggtg aacggcgttg
+      721 atgtgctctc gggtgcgtct tcgtgttatc ggtagccgct tgccttaacg ggcctacccg
+      781 gcgattgttt tagccgtcgt tgggtggtct ggtgggccat tgtggtaaga ataactgtgc
+      841 agggcaccgg agttttcggc ctcaattgca gtcggcatgc acgctatcag tgttgtgatt
+      901 ggttgtgctc tcgctgcctg cctggtgtcg ggtctgattg tcgtgttgcc tgcgaaaagt
+      961 gggttcggca gtggctcggc ccaggatggg tctgtgctgg gtgcttccag tgtcggctgt
+     1021 agtgggccag atagtctgtg gtgtagtggt agacgagcta cccgacccgt cttgaaacac
+     1081 ggaccaagga gtttaacatg tgtgcaagtc aatgggtcct acgaaaccca aaggcgcaat
+     1141 gaaagtaaag cttcgtgcca ttcgtggtgc ggagtgaggt gagatcccgc cgtgactctg
+     1201 ccagtctctt cggtcagaag caggcatacc gcgcggtggg cgcatcaccg gcccgtccca
+     1261 tgatgtggtc attggaaaag gctgctgtcg gctccggtcg gcggtagtac tcccagtgcg
+     1321 tcatcggggc ggagcatgag catacatgtt gagacccgaa agatggtgaa ctatgcttgc
+     1381 gtaggttgaa gccagaggaa actctggtgg aggaccgcag cgattctgac gtgcaaatcg
+     1441 atcgtcaaac gtgagtatag gggcgaaaga ctaatcgaac catctagtag ctggttccct
+     1501 ccgaagtttc cctcaggata gc
+//
+
+LOCUS       MN488534                1232 bp    DNA     linear   INV 05-JUN-2020
+DEFINITION  Rhinebothrium sp. FSC-2020 isolate OG_3 28S large subunit ribosomal
+            RNA gene, partial sequence.
+ACCESSION   MN488534
+VERSION     MN488534.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. FSC-2020
+  ORGANISM  Rhinebothrium sp. FSC-2020
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1232)
+  AUTHORS   Martinez-Aquino,A., Vidal-Martinez,V.M., Ceccarelli,F.S.,
+            Mendez,O., Soler-Jimenez,L.C. and Aguirre-Macedo,M.L.
+  TITLE     Phylogeny, genetics, and the partial life cycle of Oncomegas
+            wageneri in the Gulf of Mexico
+  JOURNAL   Curr Zool 66 (3), 275-283 (2020)
+   PUBMED   32440288
+REFERENCE   2  (bases 1 to 1232)
+  AUTHORS   Martinez-Aquino,A., Vidal-Martinez,V.M., Ceccarelli,F.S.,
+            Mendez,O., Soler-Jimenez,L.C. and Aguirre-Macedo,M.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-2019) Biologia de la Conservacion, CICESE, Carr
+            Tijuana-Ensenada 3918, Ensenada, BC 22860, Mexico
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1232
+                     /organism="Rhinebothrium sp. FSC-2020"
+                     /mol_type="genomic DNA"
+                     /isolate="OG_3"
+                     /db_xref="taxon:2740114"
+     rRNA            <1..>1232
+                     /product="28S large subunit ribosomal RNA"
+ORIGIN      
+        1 aagggaagag cccagcaccg aagcctgcgg tagttttact gttaggcaat gtggtgtttg
+       61 ggtcggctag cgggattgcc actccactcg aagtccagca ttgagtatgg tccactggat
+      121 ttggcccaga gagggtgaaa ggcccgtacg ggtggaggtt tcagacaagt gaggcagttc
+      181 actaggccgg ccttagagtc gggttgtttg ggaatgcagc ccaaagtggg tggtaaactc
+      241 catccaaggc taaatactag cacgagtccg atagcaaaca agtaccgtga gggaaagttg
+      301 aaaagtactt tgaagagaga gtaaacagta cgtgaaaccg catgcaggta aacgggtggc
+      361 gtcaagctgc acgcccagag gattcagccg gttagagtgt agttatgcgc ttgcgtgtca
+      421 aacggccagt gtaagattga atagtccact ggaagacagt gggccctgcc gcaaggtggg
+      481 gatgtgtgta ccgggtggaa gccggagcac gctattcgtc tattgggcca tctagccggt
+      541 gcactttctc tgtggtggac accacgaccg gtggaactgc cagtctgcca tggttaacta
+      601 tcattcgact tggcttcggt catgtcgggt ggttcacagg caatttcggt gaacggcgtt
+      661 gatgcggccc cggtcgcgtc ctcgtgttat cggtaaccgg ttgtccatac gggtcggtgc
+      721 gattgtttat ggccgtcgca ttgtacctcg tggatcatgg tggtaagaat aactgtgcag
+      781 ggcaccggag ttttcggcct caaatgcagc cggcatgcac gctataagtg ttgaatgcgg
+      841 gtgctcacgt ggtctgcctg tgacgcttct gactgtcgtg ttgcctgcga aaagtaggtt
+      901 cggcagtgtg gcgttgcttg atggattcgc gttgggtgcc tgcagtgtcg gttgtagtgg
+      961 gcctgatagt ctgtggtgta gtggtagacg agctacccga cccgtcttga aacacggacc
+     1021 aaggagttta acatgtgtgc aagtcactgg gtcctacgaa acccaaaggc gcaatgaaag
+     1081 taaagctctg gagtcaaatc tagagtgagg tgagatccta ccgtgactcc gccagcctat
+     1141 tcggtcagaa gcaggcatac cgcgcggtgg gcgcatcacc ggcccgtccc atgatgtggt
+     1201 cattggaaaa ggctgttgct ggcttcggtt tg
+//
+
+LOCUS       FJ177120                1503 bp    DNA     linear   INV 11-SEP-2013
+DEFINITION  Rhinebothrium megacanthophallus 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   FJ177120
+VERSION     FJ177120.1
+KEYWORDS    .
+SOURCE      Rhinebothrium megacanthophallus
+  ORGANISM  Rhinebothrium megacanthophallus
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium.
+REFERENCE   1  (bases 1 to 1503)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and Littlewood,D.T.
+  TITLE     Proposal for a new tapeworm order, Rhinebothriidea
+  JOURNAL   Int. J. Parasitol. 39 (4), 497-511 (2009)
+   PUBMED   18929566
+REFERENCE   2  (bases 1 to 1503)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and
+            Littlewood,D.T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2008) Department of Zoology, The Natural History
+            Museum, Cromwell Road, London, England SW7 5BD, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..1503
+                     /organism="Rhinebothrium megacanthophallus"
+                     /mol_type="genomic DNA"
+                     /host="Himantura chaophraya"
+                     /specimen_voucher="LRP3901 (CH10)"
+                     /db_xref="taxon:595946"
+                     /country="Malaysia"
+     rRNA            <1..>1503
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tatcactaag cggaggagaa gaaactaacc aggattcccc tagtaacggc gagtgaagag
+       61 ggaagagccc agcaccgaag cctgcggtag ctttactgtt aggcaatgtg gtgtttgggt
+      121 cggctcgcgg gattgccact ccactcgaag tccagcattg agtatggtcc actggatttg
+      181 gcccagagag ggtgaaaggc ccgtacgggt ggaggtttca gacaagtgag gcaattcact
+      241 aggccggcct tagagtcggg ttgtttggga atgcagccca aagtgggtgg taaactccat
+      301 ccaaggctaa atactagcac gagtccgata gcaaacaagt accgtgaggg aaagttgaaa
+      361 agtactttga agagagagta aacagtacgt gaaaccgcat gcaggtaaac gggtggcgtc
+      421 aagctgtacg cccggaggat tcagccggtt agagtgtagt catgcgcttg cgcatcgaaa
+      481 ggccagtgta agcatgggta gtctactgga agacagtggg ccctgccgca aggtggggac
+      541 gtgcgtaccg ggtggaagcc ggagcacgct atccgtctgt tgggccatct agccggtgca
+      601 ctttctccgt ggtggacacc acgaccggtg gaactgccag tctgctgtag ccaagtcgtg
+      661 tccggttggt ccctgtggcc tacggggcac gatcacgggc aaactcggtg aacggcgttg
+      721 gtgcgtcctc gggcgcgtct tcgtgttatc ggtaaccggt tgtcttaacg ggcctgcctc
+      781 gcgagtgttt tagccgtcgt ggggtggtct ggtgggctac agtggtaaga ataactgtgc
+      841 agggcatcgg agttctcggc ctcaattgca gtcggcatgc acgctagaag tgtgattgga
+      901 tgctggcgct ctcgctgcct gcctggtgtc gggtctgatt gtcgtgttgc ctgcgaaaag
+      961 tgggttcggc agtggctcgg ctcaggatgg gtctgcgttg ggtgtcttca gtgtcggttg
+     1021 tcgcgggccc gatagtctgt ggtgtagtgg tagacgagct acccgacccg tcttgaaaca
+     1081 cggaccaagg agtttaacat gtgtgcaagt cactgggtac tacgaaaccc aaaggcgcaa
+     1141 tgaaagtgaa gctaccggat cattcgtggt ccggagtgag gtgagatccc gccgtgactc
+     1201 cgccagccta ttcggtcaga agcaggcata ccgcgcggtg ggcgcatcac cggcccgtcc
+     1261 catgatgtgg tcactggaaa aggctgctgt cggcctcggt cggcggctgt actccctgtg
+     1321 cgtcatcggg gcggagcatg agcatacacg ttgagacccg aaagatggtg aactatgctt
+     1381 gcgtaggttg aagccagagg aaactctggt ggaggaccgc agcgattctg acgtgcaaat
+     1441 cgatcgtcaa acgtgagtat aggggcgaaa gactaatcga accatctagt agctggttcc
+     1501 ctc
+//
+
+LOCUS       FJ177118                1538 bp    DNA     linear   INV 11-SEP-2013
+DEFINITION  Rhinebothrium kinabatanganensis 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   FJ177118
+VERSION     FJ177118.1
+KEYWORDS    .
+SOURCE      Rhinebothrium kinabatanganensis
+  ORGANISM  Rhinebothrium kinabatanganensis
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium.
+REFERENCE   1  (bases 1 to 1538)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and Littlewood,D.T.
+  TITLE     Proposal for a new tapeworm order, Rhinebothriidea
+  JOURNAL   Int. J. Parasitol. 39 (4), 497-511 (2009)
+   PUBMED   18929566
+REFERENCE   2  (bases 1 to 1538)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and
+            Littlewood,D.T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2008) Department of Zoology, The Natural History
+            Museum, Cromwell Road, London, England SW7 5BD, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..1538
+                     /organism="Rhinebothrium kinabatanganensis"
+                     /mol_type="genomic DNA"
+                     /host="Himantura chaophraya"
+                     /specimen_voucher="LRP3900 (CH9)"
+                     /db_xref="taxon:595967"
+                     /country="Malaysia"
+                     /note="The species was placed in Rhinebothriinae New genus
+                     4 in the associated manuscript (Healy et al. 2009)."
+     rRNA            <1..>1538
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tatcactaag cggaggaaaa gaaactaacc aggattccct tagtaacggc gagtgaagag
+       61 ggaagagccc agcaccgaag cctgcggcag ttttgctgtt aggcaatgtg gtgtttgggt
+      121 cggctcgtgg gactgccact ccactcgaag tccaacattg agtatggttc gttggatttg
+      181 gcccagagag ggtgaaaggc ccgtacgggt ggaggtatca gacatgtgag gcagttcacc
+      241 aggccggcct tagagtcggg ttgtttgaga atgcagccca aagtgggtgg taaactccat
+      301 ccaaggctaa atactagcac gagtccgata gcaaacaagt accgtgaggg aaagttgaaa
+      361 agtactttga agagagagta aacagtacgt gaaaccgcat gcaggtaaac gggtggcgtc
+      421 aagctgcaca cccagggaat tcagtcggct aggatgttgt gtatgcgctt gcgcatcgat
+      481 cagtcagtgt aagattggat agtccactgg gagacagtgg gccctgccgc aaggtgggga
+      541 tgtgtgtacc gggtggtagc cggagcacgc tgtccgtctg ttggactgtc tagccggtgc
+      601 actttctctg tggtggacac cacgaccggt ggaactgcca gtctgctatg gtcaagtcgt
+      661 attcggtgcg tccttgtggc aaactgggtg cgatcacggg caaattcggt gtacggcgtg
+      721 ggtgcatctt tcgaggtgtg ccttacgtgt tatcgggcac tggttgtctg aacgggcctg
+      781 cccgacgatt gttatagccg tcgttgggtg gtctggtggg ctatggcggt aagaataact
+      841 gtgcagggca ctggagttct cggcctcaaa tgctgtctgc atgcacgcta taagtgtgta
+      901 tttgtgtgtg ccgtgtcagc ctgcctgttg gtgagtctga ctgtcgtgtt gcctacgcaa
+      961 agtgggtccg gcagtggttt gctgcaggtt ggagttgtgc acggtgtatg ctgtgtgtag
+     1021 gcagtggtgg gccagatagt cagtggtgta gtggtagacg agctacccga cccgtcttga
+     1081 aacacggacc aaggagttca acatgtatgc aagtcaaagg gtcctacgaa accccaaggc
+     1141 gcagtgaaag tgaagctgcg gctccccttt tggggtgtcc gtagtgaggt gagattctgt
+     1201 cgttactcgc atcagtgtct ctacacttgc cagtagcagg cattaagagc ggcagacgca
+     1261 tcaccggccc gtcccttgat gtggtcattg gaaaaggctg cattcggtcc gcccgggtgt
+     1321 ggtactgcca gtgcgtcatc ggggcggagc atgagcatac acgttgagac ccgaaagatg
+     1381 gtgaactatg cttgcgtagg ttgaagccag aggaaactct ggtggaggac cgcagcgatt
+     1441 ctgacgtgca aatcgatcgt caaacgtgag tataggggcg aaagactaat cgaaccatct
+     1501 agtagctggt tccctccgaa gtttccctca ggatagca
+//
+
+LOCUS       FJ177109                1495 bp    DNA     linear   INV 11-SEP-2013
+DEFINITION  Rhinebothrium shipleyi 28S ribosomal RNA gene, partial sequence.
+ACCESSION   FJ177109
+VERSION     FJ177109.1
+KEYWORDS    .
+SOURCE      Rhinebothrium shipleyi
+  ORGANISM  Rhinebothrium shipleyi
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium.
+REFERENCE   1  (bases 1 to 1495)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and Littlewood,D.T.
+  TITLE     Proposal for a new tapeworm order, Rhinebothriidea
+  JOURNAL   Int. J. Parasitol. 39 (4), 497-511 (2009)
+   PUBMED   18929566
+REFERENCE   2  (bases 1 to 1495)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and
+            Littlewood,D.T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2008) Department of Zoology, The Natural History
+            Museum, Cromwell Road, London, England SW7 5BD, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..1495
+                     /organism="Rhinebothrium shipleyi"
+                     /mol_type="genomic DNA"
+                     /host="Dasyatis kuhlii"
+                     /specimen_voucher="LRP3894 (CH3)"
+                     /db_xref="taxon:595968"
+                     /country="Malaysia"
+                     /note="The species was placed in Rhinebothriinae New genus
+                     2 in the associated manuscript (Healy et al. 2009)."
+     rRNA            <1..>1495
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tatcactaag cggaggaaaa gaaactaacc aggattccct tagtaacggc gagtgaagag
+       61 ggaagagccc agcaccgaag cctgcggcag ttttgctgtt aggcaatgtg gtgtttgggt
+      121 cggctcgtgg gactgccact ccactcgaag tccaacattg agtatggttc gttggaactt
+      181 ggcccagaga gggtgaaagg cccgtacggg tggaggtatc agacatgtga ggcagttcac
+      241 caggccggcc ttagagtcgg gttgtttgag aatgcagccc aaagtgggtg gtaaactcca
+      301 tccaaggcta aatactagca cgagtccgat agcaaacaag taccgtgagg gaaagttgaa
+      361 aagtactttg aagagagagt aaacagtacg tgaaaccgca tgcaggtaaa cgggtggcgt
+      421 caagctgcgc acccagggaa ttcagccggc tatgatgtat acgcgcttgc gcgtgtctgt
+      481 gtaagatcgg atagtccact ggtaaatggt gggccctgcc gcaaggtggg gatgtgtgta
+      541 ccgggtggaa gccggagcac gctgtctgtc tgttgacatg tgtagtcggt gcactttctc
+      601 tgtggtggac accacgaccg gtgggactgc cagtctgcta tggtcaagtc gtatttggtg
+      661 cgtccttgtg gcaaactgga tgcggtcacg ggcaaactcg gtgtacggcg tggatgcgtc
+      721 tttcgaggtg tattcacgtg ttatcggcca ctggttgtct taacgggcct gcctaacgat
+      781 tgttatagcc gtcgttgggt ggtctggtgg actatggcgg taagaataac tgtgcagggc
+      841 accggattta tcggcctcaa atgcggcctg catgcatgct ataagtgtgt atttgtgtgt
+      901 gtgtcgtgtc agcctgcctg ttgttgggtc tgactgtcgt gctgcctgcg caaagtgggt
+      961 ccggcagtgg cttgatgcag gttggagttg tccacggcgc gtgctgtgca ggttgtggtg
+     1021 ggccaaatag tcagtggtgt agtggtagac gagctacccg acccgtcttg aaacacggac
+     1081 caaggagttc aacatgtatg caagtcaaag ggtcttacga aaccccaagg cgcagtgaaa
+     1141 gtgaagctgc ggctccctcg tggtgtccgt agtgaggtga gattctgtcg ttactcgcat
+     1201 caacttgctg ccagcagcag gcattaagag cggcagacgc atcaccggcc cgtcccttga
+     1261 tgtggtcatt ggataaggct gcagtcggcc tccggttgta gtactgccag tgcgtcatcg
+     1321 gggcggagca tgagcataca cgttgagacc cgaaagatgg tgaactatgc ttgcgtaggt
+     1381 tgaagccaga ggaaactctg gtggaggacc gcagcgattc tgacgtgcaa atcgatcgtc
+     1441 aaacgtgagt ataggggcga aagactaatc gaaccatcta gtagctggtt ccctc
+//
+
+LOCUS       AY193883                1263 bp    DNA     linear   INV 29-OCT-2003
+DEFINITION  Rhinebothrium sp. Peru-PDO-2003 isolate PU-15hW 28S ribosomal RNA
+            gene, partial sequence.
+ACCESSION   AY193883
+VERSION     AY193883.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. Peru-PDO-2003
+  ORGANISM  Rhinebothrium sp. Peru-PDO-2003
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1263)
+  AUTHORS   Reyda,F.B. and Olson,P.D.
+  TITLE     Cestodes of cestodes of Peruvian freshwater stingrays
+  JOURNAL   J. Parasitol. 89 (5), 1018-1024 (2003)
+   PUBMED   14627150
+REFERENCE   2  (bases 1 to 1263)
+  AUTHORS   Olson,P.D. and Reyda,F.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2002) Division of Parasitic Worms, Department of
+            Zoology, The Natural History Museum, Cromwell Road, London, England
+            SW7 5BD, UK
+FEATURES             Location/Qualifiers
+     source          1..1263
+                     /organism="Rhinebothrium sp. Peru-PDO-2003"
+                     /mol_type="genomic DNA"
+                     /isolate="PU-15hW"
+                     /host="Paratrygon aiereba (Discus ray)"
+                     /db_xref="taxon:229399"
+                     /dev_stage="adult"
+                     /country="Peru"
+     rRNA            <1..>1263
+                     /product="28S ribosomal RNA"
+                     /note="variable domains D1-D3"
+ORIGIN      
+        1 ggaagagccc agcaccgaag cctgcggtag ctttactgtt aggcaatgtg gtgtttgggt
+       61 cggctcgcgg gattgccact ccactcgaag tccagcattg agtatggttt ctggatttgg
+      121 cccagagagg gtgaaaggcc cstacgggtg gaggtatcag acaagtgagg caattcacta
+      181 sgccggcctt agagtcgggt tgtttgggaa tgcascccaa agtgggtggt aaactccatc
+      241 caaggctaaa tactagcacg agtccgatag caaacaagta ccgtgaggga aagttgaaaa
+      301 gtactttgaa gagagagtaa acagtacgtg aaaccgcatg caggtaaacg ggtggcgtca
+      361 agctgcacgc ccagaggatt cagccggtta gagtgtagtt atgcgcttgc gtgtcaacag
+      421 gccagagtaa ggcgtggtag accgctggaa gacagtgggc cctgccgcaa ggtggggatg
+      481 tgtttagccg ggtggacgcc ggagcacgct atccgtctgt tgggccatct agccggtgca
+      541 ctttctctgt ggtggacacc acgaccggtg ggactgccag tctgctatgg tcaagtcgta
+      601 ttcggttggt ccttgtggct aactgggtgc gatcacgggc aaacttggtg aacggcgttg
+      661 acgtgctctc ttgagggtgt gtcttcgtgt tatcggtaac cagttgtctt aacgggcctg
+      721 ccttacgatt gttctagccg tcgtagggtg gtctggtgga ccatggtggt aagaataact
+      781 gtgcagggca ccggagtttt cggcctcaaa tgcagccagc atgcacgcta gtagtgtgtt
+      841 gccaatatgg gtgctctcgt ggtctgcctg gtgccgggtc tgattgtcgt gttgcctacg
+      901 caaagtgggt tcggcagtgg ctcggttcat ggttgggctt gcgttgggtg ctcagagtgc
+      961 tggttgtagt gggcctgata gtctgtggtg tagtggtaga cgagctaccc gacccgtctt
+     1021 gaaacacgga ccaaggagtt taacatgtat gcaagtcact gggtcctacg aaacccaaag
+     1081 gcgcaatgaa agtaaagccc tgtgatcgcg tttttattaa tgtggtccgg ggtgaggtga
+     1141 gatcctaccg tgactccgcc agcctattcg gtcagaagca ggcataccgc gcggtgggcg
+     1201 catcaccggc ccgtcccatg atgtggtcat tggaaaaggc tgtggctaac tgctatttcg
+     1261 gta
+//
+
+LOCUS       AY193882                1335 bp    DNA     linear   INV 29-OCT-2003
+DEFINITION  Rhinebothrium sp. Peru-PDO-2003 isolate PU-15jW 28S ribosomal RNA
+            gene, partial sequence.
+ACCESSION   AY193882
+VERSION     AY193882.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. Peru-PDO-2003
+  ORGANISM  Rhinebothrium sp. Peru-PDO-2003
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1335)
+  AUTHORS   Reyda,F.B. and Olson,P.D.
+  TITLE     Cestodes of cestodes of Peruvian freshwater stingrays
+  JOURNAL   J. Parasitol. 89 (5), 1018-1024 (2003)
+   PUBMED   14627150
+REFERENCE   2  (bases 1 to 1335)
+  AUTHORS   Olson,P.D. and Reyda,F.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2002) Division of Parasitic Worms, Department of
+            Zoology, The Natural History Museum, Cromwell Road, London, England
+            SW7 5BD, UK
+FEATURES             Location/Qualifiers
+     source          1..1335
+                     /organism="Rhinebothrium sp. Peru-PDO-2003"
+                     /mol_type="genomic DNA"
+                     /isolate="PU-15jW"
+                     /host="Paratrygon aiereba (Discus ray)"
+                     /db_xref="taxon:229399"
+                     /dev_stage="adult"
+                     /country="Peru"
+     rRNA            <1..>1335
+                     /product="28S ribosomal RNA"
+                     /note="variable domains D1-D3"
+ORIGIN      
+        1 aactaaccag attcccctag taacggcgag tgaagaggga agagcccagc accgaagcct
+       61 gcggtagctt tactgttagg caatgtggtg tttgggtcgg ctcgcgggat tgccactcca
+      121 ctcgaagtcc agcattgagt atggtttctg gatttggccc agagagggtg aaaggcccgt
+      181 acgggtggag gtatcagaca agtgaggcaa ttcactaggc cggccttaga gtcgggttgt
+      241 ttgggaatgc agcccaaagt gggtggtaaa ctccatccaa ggctaaatac tagcacgagt
+      301 ccgatagcaa acaagtaccg tgagggaaag ttgaaaagta ctttgaagag agagtaaaca
+      361 gtacgtgaaa ccgcatgcag gtaaacgggt ggcgtcaagc tgcacgccca gaggattcag
+      421 ccggttagag tgtagttatg cgcttgcgtg tcaacaggcc agagtaaggc gtggtagacc
+      481 gctggaagac agtgggccct gccgcaaggt ggggatgtgt ttagccgggt ggacgccgga
+      541 gcacgctatc cgtctgttgg gccatctagc cggtgcactt tctctgtggt ggacaccacg
+      601 accggtggga ctgccagtct gctatggtca agtcgtattc ggttggtcct tgtggctaac
+      661 tgggtgcgat cacgggcaaa cttggtgaac ggcgttgacg tgctctcttg agggtgtgtc
+      721 ttcgtgttat cggtaaccag ttgtcttaac gggcctgcct tacgattgtt ctagccgtcg
+      781 tagggtggtc tggtggacca tggtggtaag aataactgtg cagggcaccg gagttttcgg
+      841 cctcaaatgc agccagcatg cacgctagta gtgtgttgcc aatatgggtg ctctcgtggt
+      901 ctgcctggtg ccgggtctga ttgtcgtgtt gcctacgcaa agtgggttcg gcagtggctc
+      961 ggttcatggt tgggcttgcg ttgggtgctc agagtgctgg ttgtagtggg cctgatagtc
+     1021 tgtggtgtag tggtagacga gctacccgac ccgtcttgaa acacggacca aggagtttaa
+     1081 catgtatgca agtcactggg tcctacgaaa cccaaaggcg caatgaaagt aaagccctgt
+     1141 gatcgcgttt ttattaatgt ggtccggggt gaggtgagat cctaccgtga ctccgccagc
+     1201 ctattcggtc agaagcaggc ataccgcgcg gtgggcgcat caccggcccg tcccatgatg
+     1261 tggtcattgg aaaaggctgt ggctaactgc tatttcggta gggtttggcc gcggtactcc
+     1321 cagtgcgtca tcggg
+//
+
+LOCUS       AY193881                1343 bp    DNA     linear   INV 29-OCT-2003
+DEFINITION  Rhinebothrium sp. Peru-PDO-2003 isolate PU-15gW 28S ribosomal RNA
+            gene, partial sequence.
+ACCESSION   AY193881
+VERSION     AY193881.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. Peru-PDO-2003
+  ORGANISM  Rhinebothrium sp. Peru-PDO-2003
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1343)
+  AUTHORS   Reyda,F.B. and Olson,P.D.
+  TITLE     Cestodes of cestodes of Peruvian freshwater stingrays
+  JOURNAL   J. Parasitol. 89 (5), 1018-1024 (2003)
+   PUBMED   14627150
+REFERENCE   2  (bases 1 to 1343)
+  AUTHORS   Olson,P.D. and Reyda,F.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2002) Division of Parasitic Worms, Department of
+            Zoology, The Natural History Museum, Cromwell Road, London, England
+            SW7 5BD, UK
+FEATURES             Location/Qualifiers
+     source          1..1343
+                     /organism="Rhinebothrium sp. Peru-PDO-2003"
+                     /mol_type="genomic DNA"
+                     /isolate="PU-15gW"
+                     /host="Paratrygon aiereba (Discus ray)"
+                     /db_xref="taxon:229399"
+                     /dev_stage="adult"
+                     /country="Peru"
+     rRNA            <1..>1343
+                     /product="28S ribosomal RNA"
+                     /note="variable domains D1-D3"
+ORIGIN      
+        1 agaaaacaac taaccagtat tcccctagta acggcgagtg aagagggaag agcccagcac
+       61 cgaagcctgc ggtagcttta ctgttaggca atgtggtgtt tgggtcggct cgcgggattg
+      121 ccactccact cgaagtccag cattgagtat ggtttctgga tttggcccag agagggtgaa
+      181 aggcccgtac gggtggaggt atcagacaag tgaggcaatt cactaggccg gccttagagt
+      241 cgggttgttt gggaatgcag cccaaagtgg gtggtaaact ccatccaagg ctaaatacta
+      301 gcacgagtcc gatagcaaac aagtaccgtg agggaaagtt gaaaagtact ttgaagagag
+      361 agtaaacagt acgtgaaacc gcatgcaggt aaacgggtgg cgtcaagctg cacgcccaga
+      421 ggattcagcc ggttagagtg tagttatgcg cttgcgtgtc gacaggccag agtaaggcgt
+      481 ggtagaccgc tggaagacag tgggccctgc cgcaaggtgg ggatgtgttt agccgggtgg
+      541 acgccggagc acgctatccg tctgttgggc catctagccg gtgcactttc tctgtggtgg
+      601 acaccacgac cggtgggact gccagtctgc tatggtcaag tcgtattcgg ttggtccttg
+      661 tggcttactg ggtgcgatca cgggcaaact tggtgaacgg cgttgacgtg ctctcttgag
+      721 ggtgtgtctt cgtgttatcg gtagccagtt gtcttaacgg gcctgcctta cgattgttct
+      781 agccgtcgta gggtggtctg gtggaccatg gtggtaagaa taactgtgca gggcaccgga
+      841 gttttcggcc tcaaatgcag ccagcatgca cgctagtagt gtgttgccaa tgtgggtgct
+      901 ctcgtggtct gcctggtgcc gggtctgatt gtcgtgttgc ctacgcaaag tgggttcggc
+      961 agtggctcgg ttcatggttg ggcttgcgtt gggtgcttat agtgctggtt gtagtgggcc
+     1021 tgatagtctg tggtgtagtg gtagacgagc tacccgaccc gtcttgaaac acggaccaag
+     1081 gagtttaaca tgtatgcaag tcactgggtc ctacgaaacc caaaggcgca atgaaagtaa
+     1141 agccctgtga tcgcgttttc attaatgtgg tccggggtga ggtgagatcc taccgtgact
+     1201 ccgccagcct attcggtcag aagcaggcat accgcgcggt gggcgcatca ccggcccgtc
+     1261 ccatgatgtg gtcattggaa aaggctgtgg cttactgcta ctccggtagg gtttggccgc
+     1321 ggtactccca gtgcgtcatc ggg
+//
+
+LOCUS       AY193880                1336 bp    DNA     linear   INV 29-OCT-2003
+DEFINITION  Rhinebothrium sp. Peru-PDO-2003 isolate PU-15iW 28S ribosomal RNA
+            gene, partial sequence.
+ACCESSION   AY193880
+VERSION     AY193880.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. Peru-PDO-2003
+  ORGANISM  Rhinebothrium sp. Peru-PDO-2003
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1336)
+  AUTHORS   Reyda,F.B. and Olson,P.D.
+  TITLE     Cestodes of cestodes of Peruvian freshwater stingrays
+  JOURNAL   J. Parasitol. 89 (5), 1018-1024 (2003)
+   PUBMED   14627150
+REFERENCE   2  (bases 1 to 1336)
+  AUTHORS   Olson,P.D. and Reyda,F.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2002) Division of Parasitic Worms, Department of
+            Zoology, The Natural History Museum, Cromwell Road, London, England
+            SW7 5BD, UK
+FEATURES             Location/Qualifiers
+     source          1..1336
+                     /organism="Rhinebothrium sp. Peru-PDO-2003"
+                     /mol_type="genomic DNA"
+                     /isolate="PU-15iW"
+                     /host="Paratrygon aiereba (Discus ray)"
+                     /db_xref="taxon:229399"
+                     /dev_stage="adult"
+                     /country="Peru"
+     rRNA            <1..>1336
+                     /product="28S ribosomal RNA"
+                     /note="variable domains D1-D3"
+ORIGIN      
+        1 aactaaccag attcccctag taacggcgag tgaagaggga agagcccagc accgaagcct
+       61 gcggtagctt tactgttagg caatgtggtg tttgggtcgg ctcgcgggat tgccactcca
+      121 ctcgaagtcc agcattgagt atggtttctg gatttggccc agagagggtg aaaggcccgt
+      181 acgggtggag gtatcagaca agtgaggcaa ttcactaggc cggccttaga gtcgggttgt
+      241 ttgggaatgc agcccaaagt gggtggtaaa ctccatccaa ggctaaatac tagcacgagt
+      301 ccgatagcaa acaagtaccg tgagggaaag ttgaaaagta ctttgaagag agagtaaaca
+      361 gtacgtgaaa ccgcatgcag gtaaacgggt ggcgtcaagc tgcacgccca gaggattcag
+      421 ccggttagag tgtagttatg cgcttgcgtg tcgacaggcc agagtaaggc gtggtagacc
+      481 gctggaagac agtgggccct gccgcaaggt ggggatgtgt ttagccgggt ggacgccgga
+      541 gcacgctatc cgtctgttgg gccatctagc cggtgcactt tctctgtggt ggacaccacg
+      601 accggtggga ctgccagtct gctatggtca agtcgtattc ggttggtcct tgtggcttac
+      661 tgggtgcgat cacgggcaaa cttggtgaac ggcgttgacg tgctctcttg agggtgtgtc
+      721 ttcgtgttat cggtagccag ttgtcttaac gggcctgcct tacgattgtt ctagccgtcg
+      781 tagggtggtc tggtggacca tggtggtaag aataactgtg cagggcaccg gagttttcgg
+      841 cctcaaatgc agccagcatg cacgctagta gtgtgttgcc aatgtgggtg ctctcgtggt
+      901 ctgcctggtg ccgggtctga ttgtcgtgtt gcctacgcaa agtgggttcg gcagtggctc
+      961 ggttcatggt tgggcttgcg ttgggtgctt atagtgctgg ttgtagtggg cctgatagtc
+     1021 tgtggtgtag tggtagacga gctacccgac ccgtcttgaa acacggacca aggagtttaa
+     1081 catgtatgca agtcactggg tcctacgaaa cccaaaggcg caatgaaagt aaagccctgt
+     1141 gatcgcgttt tcattaatgt ggtccggggt gaggtgagat cctaccgtga ctccgccagc
+     1201 ctattcggtc agaagcaggc ataccgcgcg gtgggcgcat caccggcccg tcccatgatg
+     1261 tggtcattgg aaaaggctgt ggcttactgc tactccggta ggggtttggc cgcggtactc
+     1321 ccagtgcgtc atcggg
+//
+
+LOCUS       GQ470198                1028 bp    DNA     linear   INV 02-MAR-2010
+DEFINITION  Rhinebothrium sp. 4 KJ-2010 voucher MS05-50-12 28S ribosomal RNA
+            gene, partial sequence.
+ACCESSION   GQ470198
+VERSION     GQ470198.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. 4 KJ-2010
+  ORGANISM  Rhinebothrium sp. 4 KJ-2010
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1028)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Characterization of a diversity of tetraphyllidean and
+            rhinebothriidean cestode larval types, with comments on host
+            associations and life-cycles
+  JOURNAL   Int. J. Parasitol. 40 (8), 889-910 (2010)
+   PUBMED   20026125
+REFERENCE   2  (bases 1 to 1028)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-2009) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1200 Sunnyside Ave.,
+            Lawrence, KS 66045, USA
+FEATURES             Location/Qualifiers
+     source          1..1028
+                     /organism="Rhinebothrium sp. 4 KJ-2010"
+                     /mol_type="genomic DNA"
+                     /host="Dasyatis say"
+                     /specimen_voucher="MS05-50-12"
+                     /db_xref="taxon:723510"
+                     /dev_stage="adult"
+                     /country="USA: northern Gulf of Mexico"
+     rRNA            <1..>1028
+                     /product="28S ribosomal RNA"
+                     /note="D1-D3 region"
+ORIGIN      
+        1 ctaaccagga ttcccctagt aacggcgagt gaagagggaa tagcccagca ccgaagcctg
+       61 tggcagtttt gctgctaggc aatgtggtgt ttgggtcggc tcgcggaatt gccactccac
+      121 tcgaagtcca gcattgagta tggtccactg gatttggccc agagagggtg aaaggcccgt
+      181 acgggtggag gtgtcagaca agtgaggcag ttcactaggc cggccttaga gtcgggttgt
+      241 ttgagaatgc agcccaaagt gggtggtaaa ctccatccaa ggctaaatac tancacgagt
+      301 ccgatagcaa acaagtaccg tgagggaaag ttgaaaagta ctttgaagag agagtaaaca
+      361 gtacgtgaaa ccgcatgcag gtaaacgggt ggcgtcaagc tgcaagccca gaggattcag
+      421 tcggttaggg tgtagtgtat gcgcctgtcg catcaacaag tcggaatagg attggacagt
+      481 ctgctggaag acagcgggtg cctgccgcaa ggtgggtatg tgtgtaccgg gtggttgccg
+      541 gagcacgctg ttcgtctgtt ggactgccta gccggtgcac tttctctgtg gtggacacca
+      601 cgaccgatgg tactgtcagt ctgctgtggt caagtcgtgt ttggttggtg ctaacgtgcc
+      661 tactggatgc gatcacgggc aatgttggta gacggcgtga gcttcatctt tcaggtgtgt
+      721 tcgcgtgtta tcggctgctg cttgtcttat cgggcctgct tggcaattgt tgtagccgtt
+      781 gtcaggtggt ctggtgggcc atggtggtat gaataactgt gcagggcatc ggagttgtcg
+      841 gcctcaaatg cagttggcat gcacgctaca agtgtgcgcg tagtgggttg cgttgcagcc
+      901 tgcctgttgt tgggtgtgat tgtcgtgttg cctgcgcaaa gtgggcccgg cagtggctcg
+      961 cgacaggtcg gagttgttgg cgtagtctgc tgtgtgtcag ctgtggaggg cctgatagtc
+     1021 ggtggtgt
+//
+
+LOCUS       GQ470197                1228 bp    DNA     linear   INV 02-MAR-2010
+DEFINITION  Rhinebothrium sp. 4 KJ-2010 voucher MS05-50-11 28S ribosomal RNA
+            gene, partial sequence.
+ACCESSION   GQ470197
+VERSION     GQ470197.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. 4 KJ-2010
+  ORGANISM  Rhinebothrium sp. 4 KJ-2010
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1228)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Characterization of a diversity of tetraphyllidean and
+            rhinebothriidean cestode larval types, with comments on host
+            associations and life-cycles
+  JOURNAL   Int. J. Parasitol. 40 (8), 889-910 (2010)
+   PUBMED   20026125
+REFERENCE   2  (bases 1 to 1228)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-2009) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1200 Sunnyside Ave.,
+            Lawrence, KS 66045, USA
+FEATURES             Location/Qualifiers
+     source          1..1228
+                     /organism="Rhinebothrium sp. 4 KJ-2010"
+                     /mol_type="genomic DNA"
+                     /host="Dasyatis say"
+                     /specimen_voucher="MS05-50-11"
+                     /db_xref="taxon:723510"
+                     /dev_stage="adult"
+                     /country="USA: northern Gulf of Mexico"
+     rRNA            <1..>1228
+                     /product="28S ribosomal RNA"
+                     /note="D1-D3 region"
+ORIGIN      
+        1 gaagagggaa tagcccagca ccgaagcctg tggcagtttt gctgctaggc aatgtggtgt
+       61 ttgggtcggc tcgcggaatt gccactccac tcgaagtcca gcattgagta tggtccactg
+      121 gatttggccc agagagggtg aaaggcccgt acgggtggag gtgtcagaca agtgaggcag
+      181 ttcactaggc cggccttaga gtcgggttgt ttgagaatgc agcccaaagt gggtggtaaa
+      241 ctccatccaa ggctaaatac tagcacgagt ccgatagcaa acaagtaccg tgagggaaag
+      301 ttgaaaagta ctttgaagag agagtaaaca gtacgtgaaa ccgcatgcag gtaaacgggt
+      361 ggcgtcaagc tgcaagccca gaggattcag tcggttaggg tgtagtgtat gcgcctgtcg
+      421 catcaacaag tcggaatagg attggacagt ctgctggaag acagcgggtg cctgccgcaa
+      481 ggtgggtatg tgtgtaccgg gtggttgccg gagcacgctg ttcgtctgtt ggactgccta
+      541 gccggtgcac tttctctgtg gtggacacca cgaccgatgg tactgtcagt ctgctgtggt
+      601 caagtcgtgt ttggttggtg ctaacgtgcc tactggatgc gatcacgggc aatgttggta
+      661 gacggcgtga gcttcatctt tcaggtgtgt tcgcgtgtta tcggctgctg cttgtcttat
+      721 cgggcctgct tggcaattgt tgtagccgtt gtcaggtggt ctggtgggcc atggtggtat
+      781 gaataactgt gcagggcatc ggagttgtcg gcctcaaatg cagttggcat gcacgctaca
+      841 agtgtgcgcg tagtgggttg cgttgcagcc tgcctgttgt tgggtgtgat tgtcgtgttg
+      901 cctgcgcaaa gtgggcccgg cagtggctcg cgacaggtcg gagttgttgg cgtagtctgc
+      961 tgtgtgtcag ctgtggaggg cctgatagtc ggtggtgtag tggtagacga gctacccgac
+     1021 ccgtcttgaa acacggacca aggagtttaa catgtgtgca agtcatgggg tgtttttact
+     1081 acgaaaccca aaggcgcagt gaaagtgagg cctcaattcg aggtattggt gagatcctgt
+     1141 cgttacttgc accgcttttg ctgtgtcagc agcaggcaaa gaagagcggc aggcgcatca
+     1201 ccggcccgtc ccatgatgtg gtcattgg
+//
+
+LOCUS       GQ470196                 975 bp    DNA     linear   INV 02-MAR-2010
+DEFINITION  Rhinebothrium sp. MS05-47-1 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   GQ470196
+VERSION     GQ470196.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. MS05-47-1
+  ORGANISM  Rhinebothrium sp. MS05-47-1
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 975)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Characterization of a diversity of tetraphyllidean and
+            rhinebothriidean cestode larval types, with comments on host
+            associations and life-cycles
+  JOURNAL   Int. J. Parasitol. 40 (8), 889-910 (2010)
+   PUBMED   20026125
+REFERENCE   2  (bases 1 to 975)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-2009) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1200 Sunnyside Ave.,
+            Lawrence, KS 66045, USA
+FEATURES             Location/Qualifiers
+     source          1..975
+                     /organism="Rhinebothrium sp. MS05-47-1"
+                     /mol_type="genomic DNA"
+                     /host="Diplectrum formosum"
+                     /specimen_voucher="MS05-47-1"
+                     /db_xref="taxon:723512"
+                     /dev_stage="plerocercoid"
+                     /country="USA: northern Gulf of Mexico"
+     rRNA            <1..>975
+                     /product="28S ribosomal RNA"
+                     /note="D1-D3 region"
+ORIGIN      
+        1 tactagcacg agtccgatag caaacaagta ccgtgaggga aagttgaaaa gtactttgaa
+       61 gagagagtaa acagtacgtg aaaccgcatg caggtaaacg ggtggcgtca agctgcacgc
+      121 ccagaggatt cagccggtta gagtgtagtt atgcgcttgc gtgtcaaacg gccagtgtaa
+      181 gattggatag tccactggaa gacagtgggc cctgccgcaa ggtggggatg tgtgtaccgg
+      241 gtggaagccg gagcacgcta ttcgtctatt gggccatcta gccggtgcac tttctctgtg
+      301 gtggacacca cgaccggtgg aactgccagt ctgccatggt taactatcat tcgacttggc
+      361 ttcggtcatg tcgggtggtt cacaggcaat ttcggtgaac ggcgttgatg cggccccggt
+      421 cgcgtcctcg tgttatcggt aaccggttgt ccatacgggt cggtgcgatt gtttatggcc
+      481 gtcgcattgt acctcgtgga tcatggtggt aagaataact gtgcagggca ccggagtttt
+      541 cggcctcaaa tgcagccggc atgcacgcta taagtgttga atgcgggtgc tcacgtggtc
+      601 tgcctgtgac gcttctgact gtcgtgttgc ctgcgaaaag taggttcggc agtgtggcgt
+      661 tgcttgatgg attcgcgttg ggtgcctgca gtgtcggttg tagtgggcct gatagtctgt
+      721 ggtgtagtgg tagacgagct acccgacccg tcttgaaaca cggaccaagg agtttaacat
+      781 gtgtgcaagt cactgggtcc tacgaaaccc aaaggcgcaa tgaaagtaaa gctctggagt
+      841 caaatctaga gtgaggtgag atcctaccgt gactccgcca gcctattcgg tcagaagcag
+      901 gcataccgcg cggtgggcgc atcaccggcc cgtcccatga tgtggtcatt ggaaaaggct
+      961 gttgctggct tcggt
+//
+
+LOCUS       GQ470195                1257 bp    DNA     linear   INV 02-MAR-2010
+DEFINITION  Rhinebothrium sp. MS05-47-2 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   GQ470195
+VERSION     GQ470195.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. MS05-47-2
+  ORGANISM  Rhinebothrium sp. MS05-47-2
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1257)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Characterization of a diversity of tetraphyllidean and
+            rhinebothriidean cestode larval types, with comments on host
+            associations and life-cycles
+  JOURNAL   Int. J. Parasitol. 40 (8), 889-910 (2010)
+   PUBMED   20026125
+REFERENCE   2  (bases 1 to 1257)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-2009) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1200 Sunnyside Ave.,
+            Lawrence, KS 66045, USA
+FEATURES             Location/Qualifiers
+     source          1..1257
+                     /organism="Rhinebothrium sp. MS05-47-2"
+                     /mol_type="genomic DNA"
+                     /host="Diplectrum formosum"
+                     /specimen_voucher="MS05-47-2"
+                     /db_xref="taxon:723513"
+                     /dev_stage="plerocercoid"
+                     /country="USA: northern Gulf of Mexico"
+     rRNA            <1..>1257
+                     /product="28S ribosomal RNA"
+                     /note="D1-D3 region"
+ORIGIN      
+        1 caggattccc ctagtaacgg cgagtgaaga gggaagagcc cagcaccgaa gcctgcggta
+       61 gttttactgt taggcaatgt ggtgtttggg tcggctagcg ggattgccac tccactcgaa
+      121 gtccagcatt gagtatggtc cactggattt ggcccagaga gggtgaaagg cccgtacggg
+      181 tggaggtttc agacaagtga ggcagttcac taggccggcc ttagagtcgg gttgtttggg
+      241 aatgcagccc aaagtgggtg gtaaactcca tccaaggcta aatactagca cgagtccgat
+      301 agcaaacaag taccgtgagg gaaagttgaa aagtactttg aagagagagt aaacagtacg
+      361 tgaaaccgca tgcaggtaaa cgggtggcgt caagctgcac gcccagagga ttcagccggt
+      421 tagagtgtag ttatgcgctt gcgtgtcaaa cggccagtgt aagattggat agtccactgg
+      481 aagacagtgg gccctgccgc aaggtgggga tgtgtgtacc gggtggaagc cggagcacgc
+      541 tattcgtcta ttgggccatc tagccggtgc actttctctg tggtggacac cacgaccggt
+      601 ggaactgcca gtctgccatg gttaactatc attcgacttg gcttcggtca tgtcgggtgg
+      661 ttcacaggca atttcggtga acggcgttga tgcggccccg gtcgcgtcct cgtgttatcg
+      721 gtaaccggtt gtccatacgg gtcggtgcga ttgtttatgg ccgtcgcatt gtacctcgtg
+      781 gatcatggtg gtaagaataa ctgtgcaggg caccggagtt ttcggcctca aatgcagccg
+      841 gcatgcacgc tataagtgtt gaatgcgggt gctcacgtgg tctgcctgtg acgcttctga
+      901 ctgtcgtgtt gcctgcgaaa agtaggttcg gcagtgtggc gttgcttgat ggattcgcgt
+      961 tgggtgcctg cagtgtcggt tgtagtgggc ctgatagtct gtggtgtagt ggtagacgag
+     1021 ctacccgacc cgtcttgaaa cacggaccaa ggagtttaac atgtgtgcaa gtcactgggt
+     1081 cctacgaaac ccaaaggcgc aatgaaagta aagctctgga gtcaaatcta gagtgaggtg
+     1141 agatcctacc gtgactccgc cagcctattc ggtcagaagc aggcataccg cgcggtgggc
+     1201 gcatcaccgg cccgtcccat gatgtggtca ttggaaaagg ctgttgctgg cttcggt
+//
+
+LOCUS       GQ470194                1262 bp    DNA     linear   INV 02-MAR-2010
+DEFINITION  Rhinebothrium sp. MS05-40-1 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   GQ470194
+VERSION     GQ470194.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. MS05-40-1
+  ORGANISM  Rhinebothrium sp. MS05-40-1
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1262)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Characterization of a diversity of tetraphyllidean and
+            rhinebothriidean cestode larval types, with comments on host
+            associations and life-cycles
+  JOURNAL   Int. J. Parasitol. 40 (8), 889-910 (2010)
+   PUBMED   20026125
+REFERENCE   2  (bases 1 to 1262)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-2009) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1200 Sunnyside Ave.,
+            Lawrence, KS 66045, USA
+FEATURES             Location/Qualifiers
+     source          1..1262
+                     /organism="Rhinebothrium sp. MS05-40-1"
+                     /mol_type="genomic DNA"
+                     /host="Stenotomus caprinus"
+                     /specimen_voucher="MS05-40-1"
+                     /db_xref="taxon:723511"
+                     /dev_stage="plerocercoid"
+                     /country="USA: northern Gulf of Mexico"
+     rRNA            <1..>1262
+                     /product="28S ribosomal RNA"
+                     /note="D1-D3 region"
+ORIGIN      
+        1 ctaaccagga ttcccctagt aacggcgagt gaagagggaa gagcccagca ccgaagcctg
+       61 cggtagtttt actgttaggc aatgtggtgt ttgggtcggc tagcgggatt gccactccac
+      121 tcgaagtcca gcattgagta tggtccactg gatttggccc agagagggtg aaaggcccgt
+      181 acgggtggag gtttcagaca agtgaggcag ttcactaggc cggccttaga gtcgggttgt
+      241 ttgggaatgc agcccaaagt gggtggtaaa ctccatccaa ggctaaatac tagcacgagt
+      301 ccgatagcaa acaagtaccg tgagggaaag ttgaaaagta ctttgaagag agagtaaaca
+      361 gtacgtgaaa ccgcatgcag gtaaacgggt ggcgtcaagc tgcacgccca gaggattcag
+      421 ccggttagag tgtagttatg cgcttgcgtg tcaaacggcc agtgtaagat tggatagtcc
+      481 actggaagac agtgggccct gccgcaaggt ggggatgtgt gtaccgggtg gaagccggag
+      541 cacgctattc gtctattggg ccatctagcc ggtgcacttt ctctgtggtg gacaccacga
+      601 ccggtggaac tgccagtctg ccatggttaa ctatcattcg acttggcttc ggtcatgtcg
+      661 ggtggttcac aggcaatttc ggtgaacggc gttgatgcgg ccccggtcgc gtcctcgtgt
+      721 tatcggtaac cggttgtcca tacgggtcgg tgcgattgtt tatggccgtc gcattgtacc
+      781 tcgtggatca tggtggtaag aataactgtg cagggcaccg gagttttcgg cctcaaatgc
+      841 agccggcatg cacgctataa gtgttgaatg cgggtgctca cgtggtctgc ctgtgacgct
+      901 tctgactgtc gtgttgcctg cgaaaagtag gttcggcagt gtggcgttgc ttgatggatt
+      961 cgcgttgggt gcctgcagtg tcggttgtag tgggcctgat agtctgtggt gtagtggtag
+     1021 acgagctacc cgacccgtct tgaaacacgg accaaggagt ttaacatgtg tgcaagtcac
+     1081 tgggtcctac gaaacccaaa ggcgcaatga aagtaaagct ctggagtcaa atctagagtg
+     1141 aggtgagatc ctaccgtgac tccgccagcc tattcggtca gaagcaggca taccgcgcgg
+     1201 tgggcgcatc accggcccgt cccatgatgt ggtcattgga aaaggctgtt gctggcttcg
+     1261 gt
+//
+
+LOCUS       GQ470193                1259 bp    DNA     linear   INV 02-MAR-2010
+DEFINITION  Rhinebothrium sp. 3 KJ-2010 voucher MS05-50-15 28S ribosomal RNA
+            gene, partial sequence.
+ACCESSION   GQ470193
+VERSION     GQ470193.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. 3 KJ-2010
+  ORGANISM  Rhinebothrium sp. 3 KJ-2010
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1259)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Characterization of a diversity of tetraphyllidean and
+            rhinebothriidean cestode larval types, with comments on host
+            associations and life-cycles
+  JOURNAL   Int. J. Parasitol. 40 (8), 889-910 (2010)
+   PUBMED   20026125
+REFERENCE   2  (bases 1 to 1259)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-2009) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1200 Sunnyside Ave.,
+            Lawrence, KS 66045, USA
+FEATURES             Location/Qualifiers
+     source          1..1259
+                     /organism="Rhinebothrium sp. 3 KJ-2010"
+                     /mol_type="genomic DNA"
+                     /host="Dasyatis say"
+                     /specimen_voucher="MS05-50-15"
+                     /db_xref="taxon:723509"
+                     /dev_stage="adult"
+                     /country="USA: northern Gulf of Mexico"
+     rRNA            <1..>1259
+                     /product="28S ribosomal RNA"
+                     /note="D1-D3 region"
+ORIGIN      
+        1 ctaaccagga ttcccctagt aacggcgagt gaagagggaa gagcccagca ccgaagcctg
+       61 cggtagtttt actgttaggc aatgtggtgt ttgggtcggt tcgtgggatt gccactccac
+      121 tcgaagtcct atcattgagt atggccctgg acttggccca gagagggtga aaggcccgta
+      181 cgggtggagg tatcagacaa gtgaggcaat tcaccaggcc ggcctaagag tcgggttgtt
+      241 tgggaatgca gcccaaagtg ggtggtaaac tccatccaag gctaaatact agcacgagtc
+      301 cgatagcaaa caagtaccgt gagggaaagt tgaaaagtac tttgaagaga gagtaaacag
+      361 tacgtgaaac cgcatgcagg taaacgggtg gcgtcaagct gcaagcccag aggattcagt
+      421 cggctagggt gtagtgtatg cgcctgcgca tcgatcggcc agtgtaagat tgaacggtct
+      481 actggaagac agtgggccct gccgcaaggt ggggatgtgt gtaccgggcg gatgccggag
+      541 cacgctgttc gtctattggg tcgcctagcc ggtgcacttt ctctgtggtg gacaccacga
+      601 ccggtggtac tgccagtctg ctatggtcaa gtcgtgttcg gttggtcctt gtggcctact
+      661 ggatgcgatc acgggcaaat tcggtgaacg gcgttgatgc gctctcgggt gcgtcttcgt
+      721 gttatcggcc actggttgct ttaacgggcc tgcctttgga ttgttatagc tgtccttggg
+      781 tggtctggtg gactgtagtg gtaagaataa ctgtgcaggg cactggtgtt ttcggcctca
+      841 aatgcagcct gcatgcacgc tataagtgtg tagatgtggg cgtcgttgca gcctacctgt
+      901 tgttgggtct gattgtcgtg ttgcctgcgc aaagtgggcc cggcagtggt ctgatgcagg
+      961 atggagttgt tggcggcgtc ttcagtgcag gttgtggtgg gcctgatagt ctgtggtgta
+     1021 gtggtagacg agctacccga cccgtcttga aacacggacc gtggagttta acatgtgtgc
+     1081 aagtcatggg gtcctacgaa acccaaaggc gcagtgaaag tgaagcttcg gcaatttggt
+     1141 cggagttagg tgagatcctg tcgttactcg catccacttg ctcgctggta gcaggcatca
+     1201 agagcggcag gcgcatcacc ggcccgtccc atgatgtggt cattggaaaa ggctgtggt
+//
+
+LOCUS       GQ470192                1264 bp    DNA     linear   INV 02-MAR-2010
+DEFINITION  Rhinebothrium sp. 3 KJ-2010 voucher MS05-50-16 28S ribosomal RNA
+            gene, partial sequence.
+ACCESSION   GQ470192
+VERSION     GQ470192.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. 3 KJ-2010
+  ORGANISM  Rhinebothrium sp. 3 KJ-2010
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1264)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Characterization of a diversity of tetraphyllidean and
+            rhinebothriidean cestode larval types, with comments on host
+            associations and life-cycles
+  JOURNAL   Int. J. Parasitol. 40 (8), 889-910 (2010)
+   PUBMED   20026125
+REFERENCE   2  (bases 1 to 1264)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-2009) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1200 Sunnyside Ave.,
+            Lawrence, KS 66045, USA
+FEATURES             Location/Qualifiers
+     source          1..1264
+                     /organism="Rhinebothrium sp. 3 KJ-2010"
+                     /mol_type="genomic DNA"
+                     /host="Dasyatis say"
+                     /specimen_voucher="MS05-50-16"
+                     /db_xref="taxon:723509"
+                     /dev_stage="adult"
+                     /country="USA: northern Gulf of Mexico"
+     rRNA            <1..>1264
+                     /product="28S ribosomal RNA"
+                     /note="D1-D3 region"
+ORIGIN      
+        1 ctaaccagga ttcccctagt aacggcgagt gaagagggaa gagcccagca ccgaagcctg
+       61 cggtagtttt actgttaggc aatgtggtgt ttgggtcggt tcgtgggatt gccactccac
+      121 tcgaagtcct atcattgagt atggccctgg acttggccca gagagggtga aaggcccgta
+      181 cgggtggagg tatcagacaa gtgaggcaat tcaccaggcc ggcctaagag tcgggttgtt
+      241 tgggaatgca gcccaaagtg ggtggtaaac tccatccaag gctaaatact agcacgagtc
+      301 cgatagcaaa caagtaccgt gagggaaagt tgaaaagtac tttgaagaga gagtaaacag
+      361 tacgtgaaac cgcatgcagg taaacgggtg gcgtcaagct gcaagcccag aggattcagt
+      421 cggctagggt gtagtgtatg cgcctgcgca tcgatcggcc agtgtaagat tgaacggtct
+      481 actggaagac agtgggccct gccgcaaggt ggggatgtgt gtaccgggcg gatgccggag
+      541 cacgctgttc gtctattggg tcgcctagcc ggtgcacttt ctctgtggtg gacaccacga
+      601 ccggtggtac tgccagtctg ctatggtcaa gtcgtgttcg gttggtcctt gtggcctact
+      661 ggatgcgatc acgggcaaat tcggtgaacg gcgttgatgc gctctcgggt gcgtcttcgt
+      721 gttatcggcc actggttgct ttaacgggcc tgcctttgga ttgttatagc tgtccttggg
+      781 tggtctggtg gactgtagtg gtaagaataa ctgtgcaggg cactggtgtt ttcggcctca
+      841 aatgcagcct gcatgcacgc tataagtgtg tagatgtggg cgtcgttgca gcctacctgt
+      901 tgttgggtct gattgtcgtg ttgcctgcgc aaagtgggcc cggcagtggt ctgatgcagg
+      961 atggagttgt tggcggcgtc ttcagtgcag gttgtggtgg gcctgatagt ctgtggtgta
+     1021 gtggtagacg agctacccga cccgtcttga aacacggacc gtggagttta acatgtgtgc
+     1081 aagtcatggg gtcctacgaa acccaaaggc gcagtgaaag tgaagcttcg gcaatttggt
+     1141 cggagttagg tgagatcctg tcgttactcg catccacttg ctcgctggta gcaggcatca
+     1201 agagcggcag gcgcatcacc ggcccgtccc atgatgtggt cattggaaaa ggctgtggtt
+     1261 gact
+//
+
+LOCUS       GQ470191                1264 bp    DNA     linear   INV 02-MAR-2010
+DEFINITION  Rhinebothrium sp. 3 KJ-2010 voucher MS05-50-14 28S ribosomal RNA
+            gene, partial sequence.
+ACCESSION   GQ470191
+VERSION     GQ470191.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. 3 KJ-2010
+  ORGANISM  Rhinebothrium sp. 3 KJ-2010
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1264)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Characterization of a diversity of tetraphyllidean and
+            rhinebothriidean cestode larval types, with comments on host
+            associations and life-cycles
+  JOURNAL   Int. J. Parasitol. 40 (8), 889-910 (2010)
+   PUBMED   20026125
+REFERENCE   2  (bases 1 to 1264)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-2009) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1200 Sunnyside Ave.,
+            Lawrence, KS 66045, USA
+FEATURES             Location/Qualifiers
+     source          1..1264
+                     /organism="Rhinebothrium sp. 3 KJ-2010"
+                     /mol_type="genomic DNA"
+                     /host="Dasyatis say"
+                     /specimen_voucher="MS05-50-14"
+                     /db_xref="taxon:723509"
+                     /dev_stage="adult"
+                     /country="USA: northern Gulf of Mexico"
+     rRNA            <1..>1264
+                     /product="28S ribosomal RNA"
+                     /note="D1-D3 region"
+ORIGIN      
+        1 ctaaccagga ttcccctagt aacggcgagt gaagagggaa gagcccagca ccgaagcctg
+       61 cggtagtttt actgttaggc aatgtggtgt ttgggtcggt tcgtgggatt gccactccac
+      121 tcgaagtcct atcattgagt atggccctgg acttggccca gagagggtga aaggcccgta
+      181 cgggtggagg tatcagacaa gtgaggcaat tcaccaggcc ggcctaagag tcgggttgtt
+      241 tgggaatgca gcccaaagtg ggtggtaaac tccatccaag gctaaatact agcacgagtc
+      301 cgatagcaaa caagtaccgt gagggaaagt tgaaaagtac tttgaagaga gagtaaacag
+      361 tacgtgaaac cgcatgcagg taaacgggtg gcgtcaagct gcaagcccag aggattcagt
+      421 cggctagggt gtagtgtatg cgcctgcgca tcgatcggcc agtgtaagat tgaacggtct
+      481 actggaagac agtgggccct gccgcaaggt ggggatgtgt gtaccgggcg gatgccggag
+      541 cacgctgttc gtctattggg tcgcctagcc ggtgcacttt ctctgtggtg gacaccacga
+      601 ccggtggtac tgccagtctg ctatggtcaa gtcgtgttcg gttggtcctt gtggcctact
+      661 ggatgcgatc acgggcaaat tcggtgaacg gcgttgatgc gctctcgggt gcgtcttcgt
+      721 gttatcggcc actggttgct ttaacgggcc tgcctttgga ttgttatagc tgtccttggg
+      781 tggtctggtg gactgtagtg gtaagaataa ctgtgcaggg cactggtgtt ttcggcctca
+      841 aatgcagcct gcatgcacgc tataagtgtg tagatgtggg cgtcgttgca gcctacctgt
+      901 tgttgggtct gattgtcgtg ttgcctgcgc aaagtgggcc cggcagtggt ctgatgcagg
+      961 atggagttgt tggcggcgtc ttcagtgcag gttgtggtgg gcctgatagt ctgtggtgta
+     1021 gtggtagacg agctacccga cccgtcttga aacacggacc gtggagttta acatgtgtgc
+     1081 aagtcatggg gtcctacgaa acccaaaggc gcagtgaaag tgaagcttcg gcaatttggt
+     1141 cggagttagg tgagatcctg tcgttactcg catccacttg ctcgctggta gcaggcatca
+     1201 agagcggcag gcgcatcacc ggcccgtccc atgatgtggt cattggaaaa ggctgtggtt
+     1261 gact
+//
+
+LOCUS       GQ470190                1264 bp    DNA     linear   INV 02-MAR-2010
+DEFINITION  Rhinebothrium sp. 3 KJ-2010 voucher MS05-50-13 28S ribosomal RNA
+            gene, partial sequence.
+ACCESSION   GQ470190
+VERSION     GQ470190.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. 3 KJ-2010
+  ORGANISM  Rhinebothrium sp. 3 KJ-2010
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1264)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Characterization of a diversity of tetraphyllidean and
+            rhinebothriidean cestode larval types, with comments on host
+            associations and life-cycles
+  JOURNAL   Int. J. Parasitol. 40 (8), 889-910 (2010)
+   PUBMED   20026125
+REFERENCE   2  (bases 1 to 1264)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-2009) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1200 Sunnyside Ave.,
+            Lawrence, KS 66045, USA
+FEATURES             Location/Qualifiers
+     source          1..1264
+                     /organism="Rhinebothrium sp. 3 KJ-2010"
+                     /mol_type="genomic DNA"
+                     /host="Dasyatis say"
+                     /specimen_voucher="MS05-50-13"
+                     /db_xref="taxon:723509"
+                     /dev_stage="adult"
+                     /country="USA: northern Gulf of Mexico"
+     rRNA            <1..>1264
+                     /product="28S ribosomal RNA"
+                     /note="D1-D3 region"
+ORIGIN      
+        1 ctaaccagga ttcccctagt aacggcgagt gaagagggaa gagcccagca ccgaagcctg
+       61 cggtagtttt actgttaggc aatgtggtgt ttgggtcggt tcgtgggatt gccactccac
+      121 tcgaagtcct atcattgagt atggccctgg acttggccca gagagggtga aaggcccgta
+      181 cgggtggagg tatcagacaa gtgaggcaat tcaccaggcc ggcctaagag tcgggttgtt
+      241 tgggaatgca gcccaaagtg ggtggtaaac tccatccaag gctaaatact agcacgagtc
+      301 cgatagcaaa caagtaccgt gagggaaagt tgaaaagtac tttgaagaga gagtaaacag
+      361 tacgtgaaac cgcatgcagg taaacgggtg gcgtcaagct gcaagcccag aggattcagt
+      421 cggctagggt gtagtgtatg cgcctgcgca tcgatcggcc agtgtaagat tgaacggtct
+      481 actggaagac agtgggccct gccgcaaggt ggggatgtgt gtaccgggcg gatgccggag
+      541 cacgctgttc gtctattggg tcgcctagcc ggtgcacttt ctctgtggtg gacaccacga
+      601 ccggtggtac tgccagtctg ctatggtcaa gtcgtgttcg gttggtcctt gtggcctact
+      661 ggatgcgatc acgggcaaat tcggtgaacg gcgttgatgc gctctcgggt gcgtcttcgt
+      721 gttatcggcc actggttgct ttaacgggcc tgcctttgga ttgttatagc tgtccttggg
+      781 tggtctggtg gactgtagtg gtaagaataa ctgtgcaggg cactggtgtt ttcggcctca
+      841 aatgcagcct gcatgcacgc tataagtgtg tagatgtggg cgtcgttgca gcctacctgt
+      901 tgttgggtct gattgtcgtg ttgcctgcgc aaagtgggcc cggcagtggt ctgatgcagg
+      961 atggagttgt tggcggcgtc ttcagtgcag gttgtggtgg gcctgatagt ctgtggtgta
+     1021 gtggtagacg agctacccga cccgtcttga aacacggacc gtggagttta acatgtgtgc
+     1081 aagtcatggg gtcctacgaa acccaaaggc gcagtgaaag tgaagcttcg gcaatttggt
+     1141 cggagttagg tgagatcctg tcgttactcg catccacttg ctcgctggta gcaggcatca
+     1201 agagcggcag gcgcatcacc ggcccgtccc atgatgtggt cattggaaaa ggctgtggtt
+     1261 gact
+//
+
+LOCUS       GQ470182                1253 bp    DNA     linear   INV 02-MAR-2010
+DEFINITION  Rhinebothrium sp. MS05-62-3 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   GQ470182
+VERSION     GQ470182.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. MS05-62-3
+  ORGANISM  Rhinebothrium sp. MS05-62-3
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1253)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Characterization of a diversity of tetraphyllidean and
+            rhinebothriidean cestode larval types, with comments on host
+            associations and life-cycles
+  JOURNAL   Int. J. Parasitol. 40 (8), 889-910 (2010)
+   PUBMED   20026125
+REFERENCE   2  (bases 1 to 1253)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-2009) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1200 Sunnyside Ave.,
+            Lawrence, KS 66045, USA
+FEATURES             Location/Qualifiers
+     source          1..1253
+                     /organism="Rhinebothrium sp. MS05-62-3"
+                     /mol_type="genomic DNA"
+                     /host="Lobotes surinamensis"
+                     /specimen_voucher="MS05-62-3"
+                     /db_xref="taxon:723515"
+                     /dev_stage="plerocercoid"
+                     /country="USA: northern Gulf of Mexico"
+     rRNA            <1..>1253
+                     /product="28S ribosomal RNA"
+                     /note="D1-D3 region"
+ORIGIN      
+        1 aaccaggatt cccctagtaa cggcgagtga agagggaaaa gcccagcacc gaagcctgcg
+       61 gtagttttac tgctaggcaa tgtggtgttt gggtcggctt gcgggattgc cactccactc
+      121 gaagtccagc attgagtatg gtccactgga tttggcccag agagggtgaa aggcccgtac
+      181 gggtggaggt ttcagacaag taaggcaatc cactatgccg gccttagagt cgggttgttt
+      241 gagaatgcag cccaaagagg gtggtaaact ccatccaagg ctaaatactg gcacgagtcc
+      301 gatagcaaac aagtaccgtg agggaaagtt gaaaagtact ttgaagagag agtaaacagt
+      361 acgtgaaacc gcatgcaggt aaacgggtgg cgtcaagctg cacacccaga ggattcagcc
+      421 ggttagagtg tagttacgcg cctgcgcgtc aaacggccag tgtaagattg ggtagtccac
+      481 tggaagacag tgggccctgc cgcaaggtgg ggatgtgtgt accgggcgga agccggagca
+      541 cgctactcgt ctattgggct atctagccgg tgcactttct ctgtggtgga caccacgacc
+      601 ggtggaactg ccagtctgct atggtcaagt cgtgttgagt tggtccttgt ggcctactcg
+      661 atgcgatcac gggtaatttc ggtgaacggc gctgatgtgc tttcgggcgt gtcttcgtgt
+      721 tatcggctac cggttgcctc gacgggtctg cttagcgttg gttttgctcg cgctaggtgg
+      781 cctggtgggc cttagtggta taactgtgca gggcatcgga gttgtcggcc tcaaatgcag
+      841 ccagcatgca cgcaaatagt gtgaatgtgg gtgctcccgt ggtctgcctg ttgtcgggtc
+      901 tgattgtcgt gttgcctgcg caaagtgggt tcggcagtgg ctcggtgcag gatgggcttc
+      961 gtggggtgct tgcagtgttg gttgtagtgg gcctgatagt cagtggtgta gtggtagacg
+     1021 agctacccga cccgtcttga aacacggacc aaggagttta acatgtatgc aagtcaatgg
+     1081 gcgttacgaa acccaaaggc gcagtgaaag tgaagcttcg tgctataatg gctcggagtg
+     1141 aggtgagatc ccgtcgtgtc tccaccagtc tcttcggtca gaagcaggcg ttaagagcgg
+     1201 cgggcgcatc accggcccgt cccatgatgt ggtcattgga aaaggcggcg gtt
+//
+
+LOCUS       GQ470181                1264 bp    DNA     linear   INV 02-MAR-2010
+DEFINITION  Rhinebothrium sp. MS05-62-1 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   GQ470181
+VERSION     GQ470181.1
+KEYWORDS    .
+SOURCE      Rhinebothrium sp. MS05-62-1
+  ORGANISM  Rhinebothrium sp. MS05-62-1
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium; unclassified
+            Rhinebothrium.
+REFERENCE   1  (bases 1 to 1264)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Characterization of a diversity of tetraphyllidean and
+            rhinebothriidean cestode larval types, with comments on host
+            associations and life-cycles
+  JOURNAL   Int. J. Parasitol. 40 (8), 889-910 (2010)
+   PUBMED   20026125
+REFERENCE   2  (bases 1 to 1264)
+  AUTHORS   Jensen,K. and Bullard,S.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-2009) Ecology and Evolutionary Biology and
+            Biodiversity Institute, University of Kansas, 1200 Sunnyside Ave.,
+            Lawrence, KS 66045, USA
+FEATURES             Location/Qualifiers
+     source          1..1264
+                     /organism="Rhinebothrium sp. MS05-62-1"
+                     /mol_type="genomic DNA"
+                     /host="Lobotes surinamensis"
+                     /specimen_voucher="MS05-62-1"
+                     /db_xref="taxon:723514"
+                     /dev_stage="plerocercoid"
+                     /country="USA: northern Gulf of Mexico"
+     rRNA            <1..>1264
+                     /product="28S ribosomal RNA"
+                     /note="D1-D3 region"
+ORIGIN      
+        1 ctaaccagga ttcccctagt aacggcgagt gaagagggaa aagcccagca ccgaagcctg
+       61 cggtagtttt actgctaggc aatgtggtgt ttgggtcggc ttgcgggatt gccactccac
+      121 tcgaagtcca gcattgagta tggtccactg gatttggccc agagagggtg aaaggcccgt
+      181 acgggtggag gtttcagaca agtaaggcaa tccactatgc cggccttaga gtcgggttgt
+      241 ttgagaatgc agcccaaaga gggtggtaaa ctccatccaa ggctaaatac tggcacgagt
+      301 ccgatagcaa acaagtaccg tgagggaaag ttgaaaagta ctttgaagag agagtaaaca
+      361 gtacgtgaaa ccgcatgcag gtaaacgggt ggcgtcaagc tgcacaccca gaggattcag
+      421 ccggttagag tgtagttacg cgcctgcgcg tcaaacggcc agtgtaagat tgggtagtcc
+      481 actggaagac agtgggccct gccgcaaggt ggggatgtgt gtaccgggcg gaagccggag
+      541 cacgctactc gtctattggg ctatctagcc ggtgcacttt ctctgtggtg gacaccacga
+      601 ccggtggaac tgccagtctg ctatggtcaa gtcgtgttga gttggtcctt gtggcctact
+      661 cgatgcgatc acgggtaatt tcggtgaacg gcgctgatgt gctttcgggc gtgtcttcgt
+      721 gttatcggct accggttgcc tcgacgggtc tgcttagcgt tggttttgct cgcgctaggt
+      781 ggcctggtgg gccttagtgg tataactgtg cagggcatcg gagttgtcgg cctcaaatgc
+      841 agccagcatg cacgcaaata gtgtgaatgt gggtgctccc gtggtctgcc tgttgtcggg
+      901 tctgattgtc gtgttgcctg cgcaaagtgg gttcggcagt ggctcggtgc aggatgggct
+      961 tcgtggggtg cttgcagtgt tggttgtagt gggcctgata gtcagtggtg tagtggtaga
+     1021 cgagctaccc gacccgtctt gaaacacgga ccaaggagtt taacatgtat gcaagtcaat
+     1081 gggcgttacg aaacccaaag gcgcagtgaa agtgaagctt cgtgctataa tggctcggag
+     1141 tgaggtgaga tcccgtcgtg tctccaccag tctcttcggt cagaagcagg cgttaagagc
+     1201 ggcgggcgca tcaccggccc gtcccatgat gtggtcattg gaaaaggcgg cggttggctt
+     1261 cggc
+//
+
+LOCUS       AF286962                1287 bp    DNA     linear   INV 13-JUN-2001
+DEFINITION  Rhinebothrium maccallumi 28S ribosomal RNA gene, partial sequence.
+ACCESSION   AF286962
+VERSION     AF286962.1
+KEYWORDS    .
+SOURCE      Rhinebothrium maccallumi
+  ORGANISM  Rhinebothrium maccallumi
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea; Rhinebothrium.
+REFERENCE   1  (bases 1 to 1287)
+  AUTHORS   Olson,P.D., Littlewood,D.T., Bray,R.A. and Mariaux,J.
+  TITLE     Interrelationships and evolution of the tapeworms (Platyhelminthes:
+            Cestoda)
+  JOURNAL   Mol. Phylogenet. Evol. 19 (3), 443-467 (2001)
+   PUBMED   11399152
+REFERENCE   2  (bases 1 to 1287)
+  AUTHORS   Olson,P.D., Littlewood,D.T.J., Bray,R.A. and Mariaux,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-JUL-2000) Department of Zoology / Division of
+            Parasitic Worms, The Natural History Museum, Cromwell Road, London
+            SW7 5BD, U.K.
+FEATURES             Location/Qualifiers
+     source          1..1287
+                     /organism="Rhinebothrium maccallumi"
+                     /mol_type="genomic DNA"
+                     /host="Dasyatis americana"
+                     /db_xref="taxon:108288"
+                     /dev_stage="adult"
+                     /country="Mexico"
+     rRNA            <1..>1287
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 caccggattc ccctagtaac ggcgagtgaa gagggaagag cccagcaccg aagcctgcgg
+       61 tagatttact gttaggcaat gtggtgtttg ggtcggctcg tgggattgcc actccactcg
+      121 aagtccagca ttgagtatgg tccactggat ttggcccaka gagggtgaaa ggcccgtacg
+      181 ggtggaggta tcagacaagt aaggcaattc accaggccgg ccttagagtc gggttgtttg
+      241 ggaatgcagc ccaaagtggg tggtaaactc catccaaggc taaatactag cacgagtccg
+      301 atagcaaaca agtaccgtga gggaaagttg aaaagtactt tgaagagaga gtaaacagta
+      361 cgtgaaaccg catgcaggta aacgggtggc gtcaagctgc aagcccagag gattcagtcg
+      421 gttaggatgt agtgtatgcg cctgcgcatc aaatggccag agtaagattg gatagtctac
+      481 tggaagacag tgggccctgc cgcaaggtgg ggatgtgtgt accgggtgga tgccggagca
+      541 cgctatccgt ctattgggct gcctagccgg tgcactttct ctgtggtgaa caccacgacc
+      601 ggtggaactg tcagtctgct atggtcaagt cgtatttggt gagtcctatg tggcttactg
+      661 gatgcgatca cgggcaaact cggtaaacgg cgttgacttg ctctcgggtg ggtcttcgtg
+      721 ttatcggcta tcggttgctt taacgggcct gcttaacgat tgttatagct gtcgttaggt
+      781 ggtctggtgg actatggtgg taagaataac tgtacagggc accggagttt tcggcctcaa
+      841 atgcagcctg tatgcatgct ataagtgtgt aattgagggt atcgctgcag cctgcctgtt
+      901 gttgggtctg attgtcgtgt cacctgcata aagtaggtcc ggcagtggtc tgatgcaggt
+      961 tggagttgtt agtgatgcct ttagtacagg ttgtagtggg cctgatagtc agtggtgtag
+     1021 tggtagacga gctacccgac ccgtcttgaa acacggacca aggagtttaa catgtgtgca
+     1081 agtcatgggg tcttacgaaa cccaaaggcg cagtgaaagt gaagcttcag tttatctgga
+     1141 gtgaggtgag atcctgtcgt tactcgcacc cattgcttgt cagaagcagg tataagagcg
+     1201 gtaggcgcat caccggcccg tcccatgatg ggtcattgga aaaggctgca atcggttcgc
+     1261 tggttgtagt actcccagtg cgtcatc
+//
+
+LOCUS       FJ177110                1454 bp    DNA     linear   INV 11-SEP-2013
+DEFINITION  Rhinebothrium cadenati 28S ribosomal RNA gene, partial sequence.
+ACCESSION   FJ177110
+VERSION     FJ177110.1
+KEYWORDS    .
+SOURCE      Stillabothrium cadenati
+  ORGANISM  Stillabothrium cadenati
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Platyhelminthes;
+            Cestoda; Eucestoda; Rhinebothriidea.
+REFERENCE   1  (bases 1 to 1454)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and Littlewood,D.T.
+  TITLE     Proposal for a new tapeworm order, Rhinebothriidea
+  JOURNAL   Int. J. Parasitol. 39 (4), 497-511 (2009)
+   PUBMED   18929566
+REFERENCE   2  (bases 1 to 1454)
+  AUTHORS   Healy,C.J., Caira,J.N., Jensen,K., Webster,B.L. and
+            Littlewood,D.T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2008) Department of Zoology, The Natural History
+            Museum, Cromwell Road, London, England SW7 5BD, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..1454
+                     /organism="Stillabothrium cadenati"
+                     /mol_type="genomic DNA"
+                     /host="Zanobatus schoenleinii"
+                     /specimen_voucher="LRP3924 (CH37)"
+                     /db_xref="taxon:1930084"
+                     /country="Senegal"
+                     /note="The species was placed in Rhinebothriinae New genus
+                     3 in the associated manuscript (Healy et al. 2009)."
+     rRNA            <1..>1454
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 tatcactaag cggaggaaaa gaaactaaca aggattcccc tagtaacggc gagtgaagag
+       61 ggaaaagccc agcaccgaag cctgtggcag ttttgctgct aggcaatgtg gtgtttgggt
+      121 cgactggcgg gactgccact ccactcgaag tccagcattg agtatggtga cctggatttg
+      181 gcccagagag ggtgaaaggc ccgtacgggt ggagtttcag acatgtgagg cagttcacta
+      241 ggtcggcctt agagtcgggt tgtttgagaa tgcagcccaa agtgggtggt aaactccatc
+      301 caaggctaaa tacaagcacg agtccgatag caaacaagta ccgtgaggga aagttgaaaa
+      361 gtactttgaa gagagagtaa acagtacgtg aagccgcatg caggtaaacg ggtggcgtca
+      421 agctgcaagc cgggagaatt cagccgatta gggtgtatat gcgcctggcg catggaacag
+      481 tcggagtgag tctggatggt ccgctggaag acagtgggtc tcgccgcaag gtgggatgtg
+      541 tgtaccgggt gttagccgga gcacgccgtc cgtctgctgg actgcctagt cggtgcactt
+      601 tctctcattc atggctaaca ccacgaccgg tggtactgcc agtctgcttt ggccaagtcg
+      661 tagttggtgg gcacttgtgt ctactggttg cggcgttcac gggcaatttg gtagacggcg
+      721 ttggcattcg ccttgtgctg tgtcggcgcg ctatcgttta tcggttgtct tagtgggcct
+      781 tggtggtatg aataactgtg cagggcatcg gattgttcgg cctcaaatgc agtcggcatg
+      841 cacgctttcg ggtgtgcaat gtgtgtgcag tgccgcggcc tgcctgttgt tgagcgtgac
+      901 tgtcgtgttg cctgcgcaaa gtgggcccgg cggtggctta atgcaggatg gtgctgtgtg
+      961 tgctgtgtgc agtgtcggct gtggtgggcc taatagtcgg tggtgtggtg gtagacgagc
+     1021 tacccgaccc gtcttgaaac acggaccaag gagtttaact tgtgtgcaag tcaatgggtc
+     1081 ctacgaaacc caaaggcgca gtgaaagtga agcctcgact tgttcggggt gaggtgagat
+     1141 cctgctgtta ctcgcatcat gtcgacacca ggcatcaaga gcagtgggcg catcaccggc
+     1201 ccgtcccatg atgtggccat tggaataggg ctgcggttgg ccttcacggg ttggctgtag
+     1261 tacctccagt gcgtcatcgg ggcggagcat gagcacacag gttgagaccc gaaagatggt
+     1321 gaactatgct tgcgtaggtt gaagccagag gaaactctgg tggaggaccg cagcgattct
+     1381 gacgtgcaaa tcgatcgtca aacgtgagta taggggcgaa agactaatcg aaccatctag
+     1441 tagctggttc cctc
+//
+
